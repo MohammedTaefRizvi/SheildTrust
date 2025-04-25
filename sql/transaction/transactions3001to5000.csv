@@ -1,0 +1,2001 @@
+transaction_id,card_id,amount,merchant_name,merchant_category,transaction_date,location,status
+3001,420,4569,bookmyshow,entertainment,2025-01-18,ahmedabad,completed
+3002,450,6954,paytm,finance,2025-01-24,kolkata,completed
+3003,153,8422,reliance digital,electronics,2025-01-19,pune,failed
+3004,264,9966,lenskart,eyewear,2025-02-17,cochin,pending
+3005,475,9233,amazon,ecommerce,2025-01-11,kolkata,failed
+3006,428,8408,swiggy,food,2025-02-20,nagpur,pending
+3007,12,3580,paytm,finance,2025-01-09,hyderabad,completed
+3008,81,7840,lenskart,eyewear,2025-01-24,hyderabad,completed
+3009,279,3467,dominos,food,2025-02-26,jaipur,pending
+3010,332,727,croma,electronics,2025-01-08,kolkata,completed
+3011,466,8652,tata cliq,ecommerce,2025-03-03,bangalore,pending
+3012,163,2609,big bazaar,retail,2025-02-22,jaipur,pending
+3013,158,1017,flipkart,ecommerce,2025-01-21,delhi,pending
+3014,386,2490,hdfc bank,banking,2025-02-14,nagpur,completed
+3015,94,8620,hdfc bank,banking,2025-02-19,hyderabad,completed
+3016,191,1725,paytm,finance,2025-01-04,mumbai,failed
+3017,358,6867,reliance digital,electronics,2025-01-13,mumbai,failed
+3018,268,1198,swiggy,food,2025-01-30,hyderabad,pending
+3019,300,1897,swiggy,food,2025-01-06,cochin,completed
+3020,310,2775,swiggy,food,2025-01-20,pune,failed
+3021,485,2638,nykaa,beauty,2025-01-31,nagpur,pending
+3022,497,9713,big bazaar,retail,2025-02-18,nagpur,failed
+3023,108,9309,snapdeal,ecommerce,2025-01-29,nagpur,pending
+3024,12,2478,nykaa,beauty,2025-02-23,pune,pending
+3025,174,6425,amazon,ecommerce,2025-02-17,jaipur,completed
+3026,406,113,jabong,ecommerce,2025-02-04,delhi,failed
+3027,307,6527,amazon,ecommerce,2025-01-10,mumbai,failed
+3028,44,6845,amazon,ecommerce,2025-02-27,mumbai,failed
+3029,458,3223,bookmyshow,entertainment,2025-02-10,mumbai,failed
+3030,41,5741,hdfc bank,banking,2025-01-09,bangalore,completed
+3031,74,4313,croma,electronics,2025-02-21,jaipur,completed
+3032,468,3133,paytm,finance,2025-01-23,nagpur,pending
+3033,344,520,big bazaar,retail,2025-02-02,hyderabad,pending
+3034,125,3261,nykaa,beauty,2025-02-24,delhi,pending
+3035,75,4347,lenskart,eyewear,2025-01-11,pune,pending
+3036,290,5187,zomato,food,2025-01-19,mumbai,failed
+3037,408,6628,big bazaar,retail,2025-02-26,surat,failed
+3038,319,7610,zomato,food,2025-02-03,jaipur,pending
+3039,195,5667,reliance digital,electronics,2025-02-22,ahmedabad,pending
+3040,433,7884,big bazaar,retail,2025-02-08,cochin,completed
+3041,418,8067,tata cliq,ecommerce,2025-02-07,pune,completed
+3042,415,1467,swiggy,food,2025-02-20,chennai,pending
+3043,362,6865,croma,electronics,2025-01-19,bangalore,failed
+3044,334,6629,amazon,ecommerce,2025-02-13,chennai,pending
+3045,487,9927,jabong,ecommerce,2025-01-13,nagpur,pending
+3046,414,5350,hdfc bank,banking,2025-01-06,delhi,completed
+3047,45,9731,dominos,food,2025-02-21,surat,completed
+3048,293,3528,jabong,ecommerce,2025-01-16,mumbai,failed
+3049,255,2785,myntra,fashion,2025-02-02,kolkata,completed
+3050,493,3984,amazon,ecommerce,2025-02-17,jaipur,pending
+3051,192,8983,myntra,fashion,2025-01-23,hyderabad,failed
+3052,345,4620,dominos,food,2025-01-09,delhi,pending
+3053,349,6899,myntra,fashion,2025-01-19,mumbai,failed
+3054,241,891,dominos,food,2025-01-10,cochin,failed
+3055,81,5996,hdfc bank,banking,2025-02-13,hyderabad,completed
+3056,500,6943,lenskart,eyewear,2025-01-28,bangalore,failed
+3057,343,3986,dominos,food,2025-01-10,nagpur,pending
+3058,461,1117,myntra,fashion,2025-03-05,ahmedabad,pending
+3059,469,7753,flipkart,ecommerce,2025-02-11,jaipur,failed
+3060,119,525,myntra,fashion,2025-02-06,surat,completed
+3061,452,6478,nykaa,beauty,2025-01-01,delhi,completed
+3062,350,7140,flipkart,ecommerce,2025-01-18,nagpur,failed
+3063,35,1271,bookmyshow,entertainment,2025-01-09,cochin,completed
+3064,492,1953,zomato,food,2025-02-28,chennai,completed
+3065,306,4412,croma,electronics,2025-01-28,cochin,completed
+3066,89,2618,big bazaar,retail,2025-02-21,jaipur,failed
+3067,456,8147,zomato,food,2025-01-29,ahmedabad,completed
+3068,336,1942,dominos,food,2025-02-03,bangalore,failed
+3069,24,1437,nykaa,beauty,2025-02-17,cochin,pending
+3070,105,1891,tata cliq,ecommerce,2025-02-09,chennai,failed
+3071,497,9221,zomato,food,2025-02-24,kolkata,pending
+3072,219,6805,flipkart,ecommerce,2025-01-09,delhi,completed
+3073,39,2881,croma,electronics,2025-02-01,jaipur,completed
+3074,186,5702,amazon,ecommerce,2025-01-02,kolkata,completed
+3075,52,2953,swiggy,food,2025-01-10,surat,pending
+3076,68,1959,reliance digital,electronics,2025-02-20,ahmedabad,pending
+3077,458,685,reliance digital,electronics,2025-01-01,jaipur,failed
+3078,335,4939,jabong,ecommerce,2025-01-11,cochin,pending
+3079,389,5334,flipkart,ecommerce,2025-02-17,delhi,failed
+3080,19,7192,jabong,ecommerce,2025-02-05,chennai,completed
+3081,290,1303,lenskart,eyewear,2025-01-15,hyderabad,failed
+3082,400,9135,amazon,ecommerce,2025-02-28,delhi,pending
+3083,266,8583,reliance digital,electronics,2025-01-14,bangalore,failed
+3084,180,8732,big bazaar,retail,2025-02-11,jaipur,failed
+3085,304,1195,jabong,ecommerce,2025-01-14,nagpur,pending
+3086,347,8930,dominos,food,2025-01-18,delhi,completed
+3087,46,5421,lenskart,eyewear,2025-01-13,pune,pending
+3088,34,670,croma,electronics,2025-03-05,hyderabad,pending
+3089,43,8957,reliance digital,electronics,2025-01-19,pune,failed
+3090,22,5883,nykaa,beauty,2025-02-19,delhi,failed
+3091,213,2470,dominos,food,2025-02-06,nagpur,pending
+3092,456,9874,big bazaar,retail,2025-02-10,cochin,pending
+3093,90,4584,paytm,finance,2025-02-28,pune,completed
+3094,50,4637,amazon,ecommerce,2025-03-04,kolkata,failed
+3095,87,3319,tata cliq,ecommerce,2025-02-13,hyderabad,pending
+3096,139,8666,snapdeal,ecommerce,2025-01-22,kolkata,failed
+3097,459,6672,flipkart,ecommerce,2025-02-05,pune,completed
+3098,268,2426,big bazaar,retail,2025-03-03,nagpur,failed
+3099,240,9359,amazon,ecommerce,2025-02-12,nagpur,pending
+3100,160,7260,bookmyshow,entertainment,2025-01-16,hyderabad,failed
+3101,97,7059,snapdeal,ecommerce,2025-01-23,chennai,pending
+3102,58,3035,croma,electronics,2025-02-08,delhi,pending
+3103,440,750,flipkart,ecommerce,2025-03-03,nagpur,completed
+3104,169,9293,zomato,food,2025-01-06,pune,pending
+3105,354,3207,lenskart,eyewear,2025-01-27,surat,completed
+3106,330,260,paytm,finance,2025-02-24,kolkata,pending
+3107,87,1940,big bazaar,retail,2025-02-10,jaipur,failed
+3108,194,7811,croma,electronics,2025-02-06,jaipur,completed
+3109,125,3437,dominos,food,2025-01-11,kolkata,pending
+3110,181,8967,tata cliq,ecommerce,2025-01-01,nagpur,completed
+3111,352,5312,zomato,food,2025-01-04,chennai,failed
+3112,106,4259,myntra,fashion,2025-02-08,pune,failed
+3113,332,7207,reliance digital,electronics,2025-02-20,chennai,completed
+3114,205,4899,amazon,ecommerce,2025-01-31,kolkata,failed
+3115,314,1471,snapdeal,ecommerce,2025-02-07,delhi,pending
+3116,487,9159,snapdeal,ecommerce,2025-02-23,pune,pending
+3117,481,7360,lenskart,eyewear,2025-01-14,bangalore,pending
+3118,303,3663,big bazaar,retail,2025-01-05,cochin,failed
+3119,83,5248,dominos,food,2025-02-09,cochin,completed
+3120,415,6125,hdfc bank,banking,2025-01-24,chennai,completed
+3121,109,4568,flipkart,ecommerce,2025-02-03,chennai,pending
+3122,126,901,jabong,ecommerce,2025-01-12,pune,completed
+3123,370,7243,dominos,food,2025-01-05,pune,completed
+3124,131,5324,big bazaar,retail,2025-01-06,jaipur,pending
+3125,63,374,swiggy,food,2025-01-17,nagpur,pending
+3126,252,548,amazon,ecommerce,2025-01-15,jaipur,pending
+3127,321,7833,zomato,food,2025-03-02,bangalore,completed
+3128,51,7341,myntra,fashion,2025-01-15,jaipur,pending
+3129,167,6982,tata cliq,ecommerce,2025-01-01,kolkata,completed
+3130,307,2465,swiggy,food,2025-02-14,jaipur,pending
+3131,463,5457,dominos,food,2025-02-24,hyderabad,failed
+3132,382,3191,croma,electronics,2025-02-07,delhi,completed
+3133,424,1995,dominos,food,2025-01-07,jaipur,completed
+3134,365,7493,tata cliq,ecommerce,2025-02-13,nagpur,failed
+3135,247,1558,croma,electronics,2025-02-07,pune,pending
+3136,359,6149,zomato,food,2025-01-15,nagpur,pending
+3137,380,8377,zomato,food,2025-01-05,ahmedabad,completed
+3138,85,8287,paytm,finance,2025-01-13,surat,completed
+3139,150,3535,zomato,food,2025-02-19,chennai,pending
+3140,277,3249,bookmyshow,entertainment,2025-02-18,nagpur,failed
+3141,348,7883,bookmyshow,entertainment,2025-01-23,jaipur,failed
+3142,313,7240,dominos,food,2025-02-03,nagpur,completed
+3143,37,7522,myntra,fashion,2025-01-14,delhi,failed
+3144,213,7518,myntra,fashion,2025-02-09,bangalore,pending
+3145,427,6144,lenskart,eyewear,2025-01-28,mumbai,completed
+3146,82,1131,jabong,ecommerce,2025-02-25,delhi,completed
+3147,97,7853,croma,electronics,2025-02-10,mumbai,failed
+3148,305,4105,snapdeal,ecommerce,2025-01-30,chennai,completed
+3149,390,177,croma,electronics,2025-02-17,cochin,failed
+3150,217,7876,reliance digital,electronics,2025-01-04,chennai,failed
+3151,373,4718,snapdeal,ecommerce,2025-02-17,mumbai,failed
+3152,12,5655,jabong,ecommerce,2025-01-11,bangalore,failed
+3153,240,1962,amazon,ecommerce,2025-01-07,jaipur,completed
+3154,439,552,swiggy,food,2025-01-16,jaipur,completed
+3155,212,7073,nykaa,beauty,2025-01-20,chennai,pending
+3156,430,8620,myntra,fashion,2025-01-20,delhi,completed
+3157,27,4315,myntra,fashion,2025-03-04,bangalore,pending
+3158,157,5652,croma,electronics,2025-03-04,nagpur,failed
+3159,89,9700,flipkart,ecommerce,2025-02-26,hyderabad,failed
+3160,281,4122,nykaa,beauty,2025-02-27,delhi,completed
+3161,477,5495,reliance digital,electronics,2025-01-03,nagpur,pending
+3162,402,7328,bookmyshow,entertainment,2025-03-04,kolkata,failed
+3163,449,7283,hdfc bank,banking,2025-02-14,kolkata,completed
+3164,17,7970,flipkart,ecommerce,2025-01-25,surat,pending
+3165,289,8910,dominos,food,2025-01-14,surat,failed
+3166,348,9926,tata cliq,ecommerce,2025-02-08,hyderabad,completed
+3167,464,5102,lenskart,eyewear,2025-01-13,surat,failed
+3168,257,4399,dominos,food,2025-01-15,hyderabad,completed
+3169,337,500,hdfc bank,banking,2025-03-02,delhi,completed
+3170,17,570,nykaa,beauty,2025-02-25,jaipur,failed
+3171,329,6186,swiggy,food,2025-02-25,nagpur,pending
+3172,469,869,snapdeal,ecommerce,2025-01-06,delhi,failed
+3173,61,2852,dominos,food,2025-01-14,nagpur,completed
+3174,34,1608,nykaa,beauty,2025-01-11,hyderabad,pending
+3175,53,3331,lenskart,eyewear,2025-03-01,surat,failed
+3176,253,436,hdfc bank,banking,2025-02-16,chennai,failed
+3177,462,2563,jabong,ecommerce,2025-03-03,nagpur,pending
+3178,428,5016,myntra,fashion,2025-02-16,bangalore,failed
+3179,301,3205,jabong,ecommerce,2025-03-01,delhi,completed
+3180,148,5532,jabong,ecommerce,2025-02-19,mumbai,failed
+3181,194,8948,hdfc bank,banking,2025-01-23,bangalore,failed
+3182,229,6138,amazon,ecommerce,2025-01-16,mumbai,completed
+3183,101,8928,zomato,food,2025-01-02,hyderabad,failed
+3184,252,5182,hdfc bank,banking,2025-02-28,pune,completed
+3185,125,3341,nykaa,beauty,2025-02-01,hyderabad,pending
+3186,410,6443,myntra,fashion,2025-01-23,ahmedabad,failed
+3187,264,948,lenskart,eyewear,2025-02-03,nagpur,failed
+3188,197,122,swiggy,food,2025-01-03,mumbai,pending
+3189,94,4842,croma,electronics,2025-03-04,nagpur,failed
+3190,330,8520,zomato,food,2025-03-02,kolkata,pending
+3191,463,4745,hdfc bank,banking,2025-02-28,hyderabad,pending
+3192,259,9365,reliance digital,electronics,2025-01-30,pune,completed
+3193,290,9164,nykaa,beauty,2025-01-08,cochin,pending
+3194,38,1564,hdfc bank,banking,2025-02-10,kolkata,completed
+3195,18,8986,swiggy,food,2025-03-03,kolkata,pending
+3196,238,2957,zomato,food,2025-01-21,pune,completed
+3197,473,3512,reliance digital,electronics,2025-02-04,surat,failed
+3198,324,4449,amazon,ecommerce,2025-02-04,hyderabad,pending
+3199,453,7140,myntra,fashion,2025-02-13,jaipur,completed
+3200,105,9816,snapdeal,ecommerce,2025-01-13,bangalore,completed
+3201,99,772,croma,electronics,2025-01-10,delhi,failed
+3202,248,9195,dominos,food,2025-01-06,surat,failed
+3203,439,1375,big bazaar,retail,2025-01-09,pune,pending
+3204,1,5338,nykaa,beauty,2025-01-17,cochin,pending
+3205,456,3917,bookmyshow,entertainment,2025-02-08,chennai,pending
+3206,428,9925,lenskart,eyewear,2025-02-04,mumbai,pending
+3207,262,8775,bookmyshow,entertainment,2025-01-31,delhi,pending
+3208,192,6603,hdfc bank,banking,2025-01-01,delhi,completed
+3209,165,1303,amazon,ecommerce,2025-01-29,kolkata,pending
+3210,435,4921,paytm,finance,2025-02-18,cochin,pending
+3211,92,9588,snapdeal,ecommerce,2025-02-04,mumbai,pending
+3212,52,6417,myntra,fashion,2025-01-31,kolkata,pending
+3213,75,7509,jabong,ecommerce,2025-02-18,surat,pending
+3214,52,218,paytm,finance,2025-02-16,bangalore,completed
+3215,136,1477,jabong,ecommerce,2025-02-09,hyderabad,failed
+3216,204,7157,snapdeal,ecommerce,2025-01-28,cochin,completed
+3217,135,9620,zomato,food,2025-02-06,delhi,completed
+3218,165,8832,swiggy,food,2025-01-18,cochin,completed
+3219,60,8437,big bazaar,retail,2025-01-22,delhi,failed
+3220,481,9168,swiggy,food,2025-01-07,chennai,pending
+3221,28,8617,lenskart,eyewear,2025-01-21,nagpur,pending
+3222,151,6303,dominos,food,2025-03-05,kolkata,failed
+3223,445,2798,snapdeal,ecommerce,2025-01-18,kolkata,failed
+3224,99,6582,hdfc bank,banking,2025-02-27,ahmedabad,pending
+3225,10,107,tata cliq,ecommerce,2025-02-01,ahmedabad,completed
+3226,427,9720,snapdeal,ecommerce,2025-01-20,kolkata,pending
+3227,391,5668,dominos,food,2025-02-08,ahmedabad,completed
+3228,218,8061,tata cliq,ecommerce,2025-02-09,hyderabad,failed
+3229,268,2456,lenskart,eyewear,2025-01-19,hyderabad,pending
+3230,161,3647,lenskart,eyewear,2025-02-16,hyderabad,pending
+3231,408,9422,tata cliq,ecommerce,2025-02-28,pune,pending
+3232,450,2210,zomato,food,2025-01-23,nagpur,failed
+3233,77,6830,croma,electronics,2025-01-09,nagpur,pending
+3234,484,2847,bookmyshow,entertainment,2025-02-08,bangalore,pending
+3235,31,2836,dominos,food,2025-01-10,pune,completed
+3236,217,9477,lenskart,eyewear,2025-01-15,ahmedabad,completed
+3237,130,8212,flipkart,ecommerce,2025-02-18,ahmedabad,pending
+3238,391,5970,amazon,ecommerce,2025-02-06,pune,completed
+3239,390,5532,paytm,finance,2025-01-26,mumbai,completed
+3240,433,3380,lenskart,eyewear,2025-02-13,kolkata,failed
+3241,2,2960,snapdeal,ecommerce,2025-01-10,mumbai,pending
+3242,483,8797,tata cliq,ecommerce,2025-01-21,surat,failed
+3243,255,8627,reliance digital,electronics,2025-01-18,bangalore,completed
+3244,278,1424,zomato,food,2025-03-04,pune,failed
+3245,325,3087,dominos,food,2025-02-12,hyderabad,pending
+3246,81,6168,nykaa,beauty,2025-01-13,mumbai,pending
+3247,105,4996,bookmyshow,entertainment,2025-01-23,ahmedabad,pending
+3248,417,5299,snapdeal,ecommerce,2025-02-28,bangalore,pending
+3249,286,7452,reliance digital,electronics,2025-02-19,mumbai,pending
+3250,367,9936,flipkart,ecommerce,2025-02-10,nagpur,failed
+3251,121,309,jabong,ecommerce,2025-01-31,pune,pending
+3252,356,884,flipkart,ecommerce,2025-02-13,delhi,failed
+3253,115,111,nykaa,beauty,2025-01-26,chennai,pending
+3254,478,721,jabong,ecommerce,2025-01-31,hyderabad,failed
+3255,51,1346,big bazaar,retail,2025-02-01,jaipur,completed
+3256,483,9190,reliance digital,electronics,2025-01-08,kolkata,completed
+3257,254,4179,zomato,food,2025-03-04,nagpur,pending
+3258,405,1922,zomato,food,2025-02-13,surat,pending
+3259,20,7494,swiggy,food,2025-02-23,hyderabad,pending
+3260,22,9427,paytm,finance,2025-01-06,kolkata,completed
+3261,266,9347,croma,electronics,2025-02-18,mumbai,completed
+3262,226,3735,nykaa,beauty,2025-01-25,chennai,completed
+3263,468,7669,amazon,ecommerce,2025-03-04,mumbai,failed
+3264,477,3795,hdfc bank,banking,2025-01-04,kolkata,completed
+3265,46,5972,jabong,ecommerce,2025-01-01,ahmedabad,pending
+3266,383,9544,myntra,fashion,2025-01-24,mumbai,failed
+3267,340,6767,snapdeal,ecommerce,2025-02-05,kolkata,completed
+3268,489,2515,lenskart,eyewear,2025-02-25,bangalore,completed
+3269,316,4300,amazon,ecommerce,2025-02-07,ahmedabad,failed
+3270,96,3916,bookmyshow,entertainment,2025-01-21,bangalore,completed
+3271,118,2056,myntra,fashion,2025-01-12,hyderabad,completed
+3272,483,3462,swiggy,food,2025-03-04,surat,completed
+3273,451,936,bookmyshow,entertainment,2025-02-27,bangalore,pending
+3274,17,296,nykaa,beauty,2025-01-01,jaipur,failed
+3275,16,3640,swiggy,food,2025-03-03,hyderabad,pending
+3276,169,2931,hdfc bank,banking,2025-01-27,cochin,pending
+3277,101,4007,tata cliq,ecommerce,2025-01-11,surat,completed
+3278,304,5530,hdfc bank,banking,2025-02-12,bangalore,completed
+3279,118,8508,hdfc bank,banking,2025-02-23,bangalore,completed
+3280,479,9436,bookmyshow,entertainment,2025-02-27,ahmedabad,pending
+3281,361,9961,swiggy,food,2025-01-30,mumbai,pending
+3282,273,5009,bookmyshow,entertainment,2025-01-04,pune,failed
+3283,264,3027,bookmyshow,entertainment,2025-02-07,hyderabad,pending
+3284,482,3399,swiggy,food,2025-01-11,surat,completed
+3285,377,5695,bookmyshow,entertainment,2025-01-05,nagpur,failed
+3286,411,2751,croma,electronics,2025-01-05,nagpur,failed
+3287,496,5406,lenskart,eyewear,2025-01-02,jaipur,failed
+3288,448,2403,hdfc bank,banking,2025-02-18,kolkata,pending
+3289,296,251,nykaa,beauty,2025-01-09,surat,failed
+3290,323,7359,myntra,fashion,2025-03-05,hyderabad,failed
+3291,302,5911,nykaa,beauty,2025-02-07,delhi,pending
+3292,77,9980,paytm,finance,2025-01-09,kolkata,pending
+3293,226,191,amazon,ecommerce,2025-02-26,delhi,completed
+3294,420,2298,myntra,fashion,2025-01-29,delhi,completed
+3295,10,6675,tata cliq,ecommerce,2025-03-04,chennai,pending
+3296,480,5966,big bazaar,retail,2025-01-04,ahmedabad,failed
+3297,6,9762,bookmyshow,entertainment,2025-02-23,nagpur,pending
+3298,431,5084,big bazaar,retail,2025-01-08,hyderabad,failed
+3299,434,1625,myntra,fashion,2025-01-16,surat,completed
+3300,416,4329,zomato,food,2025-02-21,pune,completed
+3301,17,2323,reliance digital,electronics,2025-01-10,pune,failed
+3302,194,942,paytm,finance,2025-02-02,bangalore,failed
+3303,320,2937,bookmyshow,entertainment,2025-01-04,jaipur,pending
+3304,252,7670,flipkart,ecommerce,2025-02-07,cochin,pending
+3305,38,2447,snapdeal,ecommerce,2025-02-22,cochin,failed
+3306,59,2766,paytm,finance,2025-01-29,kolkata,pending
+3307,319,7827,big bazaar,retail,2025-03-05,mumbai,pending
+3308,437,2915,bookmyshow,entertainment,2025-01-27,chennai,failed
+3309,132,1402,dominos,food,2025-01-18,nagpur,completed
+3310,30,7771,swiggy,food,2025-02-06,hyderabad,failed
+3311,73,1338,bookmyshow,entertainment,2025-01-24,delhi,completed
+3312,284,8428,reliance digital,electronics,2025-01-11,mumbai,completed
+3313,161,4139,nykaa,beauty,2025-02-15,delhi,failed
+3314,154,3137,hdfc bank,banking,2025-01-19,surat,pending
+3315,299,1863,swiggy,food,2025-01-09,kolkata,failed
+3316,407,8216,croma,electronics,2025-02-11,surat,pending
+3317,160,7075,tata cliq,ecommerce,2025-02-03,mumbai,completed
+3318,469,7351,nykaa,beauty,2025-01-14,pune,pending
+3319,314,3461,reliance digital,electronics,2025-02-03,jaipur,pending
+3320,60,3720,myntra,fashion,2025-02-08,kolkata,completed
+3321,477,7613,myntra,fashion,2025-02-25,delhi,pending
+3322,12,2133,amazon,ecommerce,2025-03-03,cochin,failed
+3323,55,544,nykaa,beauty,2025-01-04,chennai,completed
+3324,158,8918,reliance digital,electronics,2025-02-23,bangalore,failed
+3325,262,2421,lenskart,eyewear,2025-03-04,hyderabad,pending
+3326,161,1584,big bazaar,retail,2025-02-04,pune,failed
+3327,471,5859,big bazaar,retail,2025-02-13,ahmedabad,pending
+3328,74,2967,hdfc bank,banking,2025-01-04,delhi,failed
+3329,293,1501,jabong,ecommerce,2025-01-02,cochin,pending
+3330,234,7523,nykaa,beauty,2025-01-11,hyderabad,failed
+3331,114,499,amazon,ecommerce,2025-02-10,cochin,failed
+3332,304,7621,amazon,ecommerce,2025-02-14,kolkata,completed
+3333,46,8758,bookmyshow,entertainment,2025-02-17,jaipur,failed
+3334,153,2978,myntra,fashion,2025-01-01,ahmedabad,failed
+3335,351,2862,hdfc bank,banking,2025-03-03,ahmedabad,pending
+3336,268,6063,dominos,food,2025-01-09,surat,pending
+3337,201,2636,big bazaar,retail,2025-02-15,pune,pending
+3338,485,407,hdfc bank,banking,2025-01-30,mumbai,completed
+3339,87,5982,paytm,finance,2025-01-06,hyderabad,pending
+3340,71,5878,hdfc bank,banking,2025-02-15,chennai,pending
+3341,362,2325,big bazaar,retail,2025-01-01,nagpur,completed
+3342,264,2710,reliance digital,electronics,2025-02-06,delhi,completed
+3343,134,1271,lenskart,eyewear,2025-03-02,ahmedabad,pending
+3344,407,6972,jabong,ecommerce,2025-01-07,hyderabad,completed
+3345,330,1937,lenskart,eyewear,2025-02-24,cochin,completed
+3346,176,3847,nykaa,beauty,2025-01-31,nagpur,pending
+3347,173,578,tata cliq,ecommerce,2025-02-02,cochin,pending
+3348,323,6428,nykaa,beauty,2025-03-02,ahmedabad,failed
+3349,369,1826,flipkart,ecommerce,2025-01-14,nagpur,failed
+3350,363,2891,amazon,ecommerce,2025-01-30,surat,completed
+3351,87,2174,big bazaar,retail,2025-02-26,pune,pending
+3352,435,8387,croma,electronics,2025-02-23,cochin,failed
+3353,230,5493,amazon,ecommerce,2025-01-19,bangalore,failed
+3354,53,5630,nykaa,beauty,2025-01-05,kolkata,completed
+3355,402,7642,amazon,ecommerce,2025-01-22,kolkata,pending
+3356,348,9344,bookmyshow,entertainment,2025-02-01,ahmedabad,pending
+3357,464,878,snapdeal,ecommerce,2025-02-15,jaipur,pending
+3358,45,2333,flipkart,ecommerce,2025-02-07,surat,completed
+3359,113,3367,nykaa,beauty,2025-01-12,mumbai,pending
+3360,91,2086,swiggy,food,2025-01-20,ahmedabad,failed
+3361,229,4509,jabong,ecommerce,2025-01-14,pune,completed
+3362,86,9216,hdfc bank,banking,2025-02-07,bangalore,completed
+3363,470,2998,zomato,food,2025-03-04,bangalore,pending
+3364,123,8976,flipkart,ecommerce,2025-02-20,nagpur,pending
+3365,485,7301,lenskart,eyewear,2025-02-04,delhi,completed
+3366,95,6296,snapdeal,ecommerce,2025-02-06,ahmedabad,completed
+3367,38,9496,nykaa,beauty,2025-02-23,ahmedabad,pending
+3368,245,4074,nykaa,beauty,2025-02-20,ahmedabad,pending
+3369,366,1386,lenskart,eyewear,2025-01-11,surat,pending
+3370,449,5056,dominos,food,2025-01-20,nagpur,pending
+3371,268,7415,snapdeal,ecommerce,2025-02-14,cochin,completed
+3372,113,7113,reliance digital,electronics,2025-01-28,cochin,completed
+3373,485,3154,flipkart,ecommerce,2025-01-11,hyderabad,completed
+3374,11,3232,flipkart,ecommerce,2025-02-19,nagpur,completed
+3375,441,1449,big bazaar,retail,2025-01-09,hyderabad,pending
+3376,322,2059,croma,electronics,2025-02-04,jaipur,failed
+3377,180,9898,tata cliq,ecommerce,2025-01-14,cochin,pending
+3378,322,4628,zomato,food,2025-02-02,mumbai,pending
+3379,83,5929,jabong,ecommerce,2025-02-01,kolkata,failed
+3380,331,6804,dominos,food,2025-01-18,mumbai,failed
+3381,366,3971,snapdeal,ecommerce,2025-02-19,cochin,failed
+3382,406,9941,croma,electronics,2025-02-04,bangalore,failed
+3383,232,6854,bookmyshow,entertainment,2025-01-26,hyderabad,completed
+3384,332,3535,tata cliq,ecommerce,2025-01-13,bangalore,failed
+3385,433,8423,jabong,ecommerce,2025-01-15,mumbai,failed
+3386,146,7088,croma,electronics,2025-01-22,kolkata,pending
+3387,375,3774,croma,electronics,2025-01-22,mumbai,completed
+3388,118,8755,lenskart,eyewear,2025-02-21,ahmedabad,pending
+3389,169,2214,nykaa,beauty,2025-02-03,mumbai,pending
+3390,279,5318,big bazaar,retail,2025-01-31,ahmedabad,completed
+3391,68,9649,bookmyshow,entertainment,2025-03-05,nagpur,pending
+3392,370,7041,amazon,ecommerce,2025-01-04,delhi,pending
+3393,281,1693,tata cliq,ecommerce,2025-01-31,nagpur,pending
+3394,133,8742,swiggy,food,2025-01-22,jaipur,failed
+3395,265,1079,tata cliq,ecommerce,2025-02-20,hyderabad,completed
+3396,356,9931,lenskart,eyewear,2025-02-01,chennai,completed
+3397,291,5731,tata cliq,ecommerce,2025-02-21,surat,pending
+3398,424,8693,zomato,food,2025-02-09,delhi,pending
+3399,293,640,dominos,food,2025-01-22,bangalore,completed
+3400,467,1168,flipkart,ecommerce,2025-01-10,pune,completed
+3401,484,1544,tata cliq,ecommerce,2025-02-02,mumbai,completed
+3402,209,5895,flipkart,ecommerce,2025-01-12,surat,pending
+3403,310,4900,swiggy,food,2025-01-08,surat,pending
+3404,202,217,nykaa,beauty,2025-01-28,nagpur,failed
+3405,56,4489,lenskart,eyewear,2025-02-02,jaipur,failed
+3406,481,338,flipkart,ecommerce,2025-03-02,delhi,pending
+3407,217,5750,myntra,fashion,2025-02-11,hyderabad,failed
+3408,287,2100,paytm,finance,2025-02-14,mumbai,pending
+3409,12,9816,amazon,ecommerce,2025-02-12,bangalore,completed
+3410,410,9899,paytm,finance,2025-02-26,cochin,pending
+3411,410,3333,nykaa,beauty,2025-02-27,chennai,failed
+3412,149,3936,tata cliq,ecommerce,2025-02-03,cochin,pending
+3413,219,3784,bookmyshow,entertainment,2025-01-12,chennai,failed
+3414,84,3955,reliance digital,electronics,2025-02-07,kolkata,completed
+3415,317,3124,croma,electronics,2025-01-18,hyderabad,failed
+3416,67,4972,dominos,food,2025-02-12,hyderabad,completed
+3417,152,8487,dominos,food,2025-02-17,jaipur,pending
+3418,142,5267,myntra,fashion,2025-02-03,surat,failed
+3419,353,1958,bookmyshow,entertainment,2025-01-05,bangalore,completed
+3420,416,1145,croma,electronics,2025-02-19,chennai,pending
+3421,311,7618,swiggy,food,2025-02-24,chennai,completed
+3422,268,5281,bookmyshow,entertainment,2025-01-15,pune,completed
+3423,124,7909,lenskart,eyewear,2025-02-15,mumbai,completed
+3424,91,7006,jabong,ecommerce,2025-02-09,chennai,pending
+3425,283,734,nykaa,beauty,2025-01-10,pune,completed
+3426,149,712,bookmyshow,entertainment,2025-02-22,surat,failed
+3427,256,9007,flipkart,ecommerce,2025-02-07,nagpur,failed
+3428,176,8294,big bazaar,retail,2025-01-04,delhi,failed
+3429,194,1477,flipkart,ecommerce,2025-01-29,nagpur,pending
+3430,122,9760,paytm,finance,2025-01-20,ahmedabad,completed
+3431,12,2322,amazon,ecommerce,2025-01-08,nagpur,pending
+3432,350,7999,flipkart,ecommerce,2025-02-08,ahmedabad,completed
+3433,405,2489,snapdeal,ecommerce,2025-01-07,delhi,pending
+3434,108,7696,zomato,food,2025-02-13,surat,completed
+3435,69,277,nykaa,beauty,2025-02-23,mumbai,failed
+3436,250,9540,tata cliq,ecommerce,2025-01-04,cochin,failed
+3437,365,9562,tata cliq,ecommerce,2025-03-04,surat,completed
+3438,36,2476,jabong,ecommerce,2025-01-02,chennai,failed
+3439,426,1875,tata cliq,ecommerce,2025-02-04,chennai,completed
+3440,122,7570,jabong,ecommerce,2025-02-28,hyderabad,completed
+3441,222,9484,paytm,finance,2025-01-28,pune,failed
+3442,432,4874,lenskart,eyewear,2025-02-15,kolkata,failed
+3443,422,409,paytm,finance,2025-01-03,chennai,failed
+3444,7,1642,swiggy,food,2025-02-01,chennai,completed
+3445,101,859,reliance digital,electronics,2025-01-05,delhi,pending
+3446,275,6862,amazon,ecommerce,2025-01-03,ahmedabad,completed
+3447,48,4887,myntra,fashion,2025-02-15,nagpur,pending
+3448,305,4633,bookmyshow,entertainment,2025-01-31,chennai,pending
+3449,312,161,hdfc bank,banking,2025-01-26,mumbai,completed
+3450,149,7162,swiggy,food,2025-01-26,mumbai,pending
+3451,271,6627,zomato,food,2025-02-22,nagpur,failed
+3452,338,6730,snapdeal,ecommerce,2025-01-13,ahmedabad,failed
+3453,436,6627,snapdeal,ecommerce,2025-02-22,mumbai,pending
+3454,294,8349,snapdeal,ecommerce,2025-02-12,ahmedabad,completed
+3455,487,6540,snapdeal,ecommerce,2025-01-28,cochin,failed
+3456,87,8736,zomato,food,2025-02-18,nagpur,failed
+3457,336,5347,big bazaar,retail,2025-03-02,jaipur,failed
+3458,49,2482,bookmyshow,entertainment,2025-02-24,chennai,failed
+3459,334,6086,flipkart,ecommerce,2025-01-15,bangalore,failed
+3460,82,6461,jabong,ecommerce,2025-01-31,surat,completed
+3461,272,5322,zomato,food,2025-01-07,bangalore,failed
+3462,64,4177,reliance digital,electronics,2025-01-26,nagpur,failed
+3463,67,8806,tata cliq,ecommerce,2025-02-10,bangalore,failed
+3464,48,2336,paytm,finance,2025-02-17,chennai,failed
+3465,122,3983,myntra,fashion,2025-01-13,pune,pending
+3466,285,2903,zomato,food,2025-02-10,ahmedabad,pending
+3467,310,8956,paytm,finance,2025-02-09,hyderabad,completed
+3468,260,8405,bookmyshow,entertainment,2025-01-15,hyderabad,pending
+3469,156,7366,flipkart,ecommerce,2025-03-04,kolkata,failed
+3470,139,4612,swiggy,food,2025-01-10,nagpur,completed
+3471,236,2621,lenskart,eyewear,2025-01-22,nagpur,failed
+3472,228,1254,zomato,food,2025-02-20,cochin,completed
+3473,424,5363,bookmyshow,entertainment,2025-02-07,nagpur,completed
+3474,271,5301,myntra,fashion,2025-02-18,hyderabad,completed
+3475,408,8903,hdfc bank,banking,2025-01-06,pune,pending
+3476,315,2944,flipkart,ecommerce,2025-02-08,pune,completed
+3477,419,476,hdfc bank,banking,2025-02-15,chennai,completed
+3478,142,4589,nykaa,beauty,2025-02-08,nagpur,completed
+3479,384,2489,flipkart,ecommerce,2025-01-09,surat,failed
+3480,367,5708,tata cliq,ecommerce,2025-01-01,delhi,failed
+3481,66,5087,jabong,ecommerce,2025-01-25,bangalore,pending
+3482,146,2442,myntra,fashion,2025-02-24,chennai,failed
+3483,227,7586,hdfc bank,banking,2025-01-21,cochin,completed
+3484,121,4672,paytm,finance,2025-01-09,cochin,completed
+3485,223,2003,dominos,food,2025-01-28,surat,failed
+3486,26,5650,lenskart,eyewear,2025-01-16,kolkata,pending
+3487,412,7383,nykaa,beauty,2025-01-03,kolkata,completed
+3488,113,9898,swiggy,food,2025-01-21,cochin,completed
+3489,394,7956,flipkart,ecommerce,2025-01-21,jaipur,failed
+3490,265,9058,paytm,finance,2025-02-24,nagpur,completed
+3491,321,2749,swiggy,food,2025-01-31,hyderabad,failed
+3492,211,4210,flipkart,ecommerce,2025-01-13,ahmedabad,pending
+3493,8,575,bookmyshow,entertainment,2025-01-15,surat,pending
+3494,446,562,amazon,ecommerce,2025-02-26,jaipur,failed
+3495,120,8109,zomato,food,2025-01-21,surat,completed
+3496,341,7096,myntra,fashion,2025-02-18,pune,failed
+3497,229,1228,myntra,fashion,2025-02-01,jaipur,pending
+3498,247,8540,bookmyshow,entertainment,2025-01-02,jaipur,completed
+3499,324,3503,hdfc bank,banking,2025-02-20,chennai,failed
+3500,218,8258,flipkart,ecommerce,2025-02-18,mumbai,pending
+3501,236,5289,flipkart,ecommerce,2025-02-09,hyderabad,pending
+3502,254,323,dominos,food,2025-01-03,pune,completed
+3503,352,3908,zomato,food,2025-01-04,mumbai,completed
+3504,355,1043,big bazaar,retail,2025-01-19,hyderabad,failed
+3505,129,2033,big bazaar,retail,2025-01-08,ahmedabad,pending
+3506,224,9946,lenskart,eyewear,2025-01-14,cochin,failed
+3507,322,1523,big bazaar,retail,2025-01-31,bangalore,pending
+3508,207,5344,swiggy,food,2025-01-16,bangalore,completed
+3509,111,1264,croma,electronics,2025-02-16,chennai,completed
+3510,242,1110,tata cliq,ecommerce,2025-01-18,pune,completed
+3511,24,7865,big bazaar,retail,2025-03-04,jaipur,pending
+3512,142,5194,zomato,food,2025-02-07,hyderabad,completed
+3513,346,1355,paytm,finance,2025-02-01,kolkata,completed
+3514,48,8129,myntra,fashion,2025-01-19,mumbai,pending
+3515,229,5890,reliance digital,electronics,2025-03-04,hyderabad,pending
+3516,318,8954,paytm,finance,2025-01-12,ahmedabad,failed
+3517,272,7742,snapdeal,ecommerce,2025-01-08,delhi,failed
+3518,325,1334,snapdeal,ecommerce,2025-02-26,cochin,completed
+3519,320,5102,reliance digital,electronics,2025-01-05,bangalore,completed
+3520,73,9293,big bazaar,retail,2025-02-12,bangalore,completed
+3521,325,8866,croma,electronics,2025-01-11,bangalore,completed
+3522,177,5675,flipkart,ecommerce,2025-01-14,chennai,completed
+3523,161,418,croma,electronics,2025-01-28,cochin,pending
+3524,31,4072,reliance digital,electronics,2025-01-19,nagpur,pending
+3525,414,9225,amazon,ecommerce,2025-01-18,delhi,failed
+3526,461,5888,paytm,finance,2025-01-18,surat,pending
+3527,407,4449,tata cliq,ecommerce,2025-01-05,delhi,completed
+3528,196,4310,tata cliq,ecommerce,2025-02-11,bangalore,pending
+3529,162,1766,dominos,food,2025-02-01,bangalore,failed
+3530,142,1868,dominos,food,2025-02-05,kolkata,failed
+3531,270,7046,snapdeal,ecommerce,2025-02-06,jaipur,completed
+3532,75,8072,hdfc bank,banking,2025-01-20,nagpur,pending
+3533,307,1253,bookmyshow,entertainment,2025-01-22,jaipur,failed
+3534,138,7019,amazon,ecommerce,2025-02-17,ahmedabad,failed
+3535,187,5040,reliance digital,electronics,2025-01-24,chennai,pending
+3536,263,8206,hdfc bank,banking,2025-02-24,ahmedabad,pending
+3537,424,506,tata cliq,ecommerce,2025-01-18,delhi,completed
+3538,216,2065,zomato,food,2025-01-24,jaipur,failed
+3539,411,2308,reliance digital,electronics,2025-01-24,ahmedabad,completed
+3540,335,4739,lenskart,eyewear,2025-01-13,hyderabad,completed
+3541,460,685,big bazaar,retail,2025-02-19,nagpur,failed
+3542,63,9653,bookmyshow,entertainment,2025-02-19,hyderabad,completed
+3543,75,1403,dominos,food,2025-01-07,bangalore,failed
+3544,211,1761,tata cliq,ecommerce,2025-02-07,nagpur,pending
+3545,392,3675,bookmyshow,entertainment,2025-02-06,kolkata,completed
+3546,251,3011,croma,electronics,2025-02-06,pune,failed
+3547,133,198,bookmyshow,entertainment,2025-01-06,nagpur,pending
+3548,88,8042,tata cliq,ecommerce,2025-02-19,jaipur,pending
+3549,242,782,reliance digital,electronics,2025-01-01,surat,failed
+3550,18,4893,zomato,food,2025-02-25,jaipur,pending
+3551,489,1967,swiggy,food,2025-02-11,delhi,pending
+3552,163,1760,snapdeal,ecommerce,2025-03-01,nagpur,pending
+3553,238,5997,myntra,fashion,2025-01-29,hyderabad,pending
+3554,368,705,paytm,finance,2025-02-10,surat,failed
+3555,160,4029,hdfc bank,banking,2025-02-12,ahmedabad,failed
+3556,280,4767,zomato,food,2025-02-11,jaipur,failed
+3557,116,2598,paytm,finance,2025-02-07,jaipur,failed
+3558,415,7970,dominos,food,2025-01-19,delhi,pending
+3559,169,9713,nykaa,beauty,2025-02-11,bangalore,pending
+3560,87,5444,nykaa,beauty,2025-01-10,kolkata,completed
+3561,434,6499,big bazaar,retail,2025-02-01,surat,pending
+3562,259,7508,croma,electronics,2025-02-19,hyderabad,pending
+3563,342,4659,jabong,ecommerce,2025-02-17,cochin,completed
+3564,414,4483,dominos,food,2025-01-05,nagpur,failed
+3565,181,5922,swiggy,food,2025-01-19,pune,failed
+3566,27,7428,tata cliq,ecommerce,2025-01-27,kolkata,failed
+3567,394,6020,reliance digital,electronics,2025-02-09,delhi,pending
+3568,101,4942,amazon,ecommerce,2025-01-09,surat,pending
+3569,412,8458,amazon,ecommerce,2025-02-27,delhi,pending
+3570,218,2437,flipkart,ecommerce,2025-03-01,jaipur,failed
+3571,162,2310,amazon,ecommerce,2025-02-08,pune,completed
+3572,170,8502,jabong,ecommerce,2025-02-09,surat,failed
+3573,436,4504,big bazaar,retail,2025-02-16,pune,pending
+3574,310,2122,swiggy,food,2025-01-04,chennai,pending
+3575,5,1676,bookmyshow,entertainment,2025-01-21,cochin,failed
+3576,271,233,jabong,ecommerce,2025-03-01,bangalore,pending
+3577,28,9970,croma,electronics,2025-02-12,pune,failed
+3578,253,2611,flipkart,ecommerce,2025-02-28,delhi,pending
+3579,379,1859,lenskart,eyewear,2025-02-19,kolkata,pending
+3580,409,4782,nykaa,beauty,2025-01-17,bangalore,pending
+3581,192,584,lenskart,eyewear,2025-03-02,nagpur,pending
+3582,261,1772,paytm,finance,2025-02-09,delhi,pending
+3583,338,9369,reliance digital,electronics,2025-02-20,delhi,completed
+3584,118,4261,big bazaar,retail,2025-01-16,nagpur,completed
+3585,332,9150,paytm,finance,2025-02-21,jaipur,failed
+3586,136,3963,jabong,ecommerce,2025-01-12,nagpur,completed
+3587,172,1638,myntra,fashion,2025-02-20,pune,pending
+3588,307,600,flipkart,ecommerce,2025-02-21,delhi,failed
+3589,306,7407,bookmyshow,entertainment,2025-02-08,pune,completed
+3590,123,9161,amazon,ecommerce,2025-01-01,pune,pending
+3591,186,4100,reliance digital,electronics,2025-01-21,delhi,pending
+3592,444,3460,swiggy,food,2025-01-16,hyderabad,completed
+3593,472,3519,nykaa,beauty,2025-01-10,pune,pending
+3594,23,3002,amazon,ecommerce,2025-01-11,ahmedabad,failed
+3595,125,7348,tata cliq,ecommerce,2025-02-14,kolkata,failed
+3596,437,8094,snapdeal,ecommerce,2025-01-06,surat,failed
+3597,5,9628,reliance digital,electronics,2025-01-29,mumbai,pending
+3598,227,463,croma,electronics,2025-01-15,kolkata,failed
+3599,430,678,paytm,finance,2025-02-15,jaipur,completed
+3600,77,9934,jabong,ecommerce,2025-02-15,mumbai,pending
+3601,193,3429,snapdeal,ecommerce,2025-02-03,kolkata,pending
+3602,149,1824,croma,electronics,2025-01-16,kolkata,completed
+3603,431,7281,dominos,food,2025-01-11,jaipur,pending
+3604,279,7872,reliance digital,electronics,2025-02-09,nagpur,pending
+3605,58,2096,lenskart,eyewear,2025-01-05,surat,pending
+3606,499,6015,paytm,finance,2025-02-06,bangalore,failed
+3607,368,5540,big bazaar,retail,2025-01-16,hyderabad,completed
+3608,350,7411,flipkart,ecommerce,2025-01-21,cochin,completed
+3609,492,5568,hdfc bank,banking,2025-01-08,mumbai,pending
+3610,233,3620,hdfc bank,banking,2025-03-02,pune,failed
+3611,424,2026,dominos,food,2025-01-08,cochin,completed
+3612,493,560,amazon,ecommerce,2025-02-21,chennai,pending
+3613,428,9789,snapdeal,ecommerce,2025-02-07,nagpur,completed
+3614,332,2283,dominos,food,2025-01-28,mumbai,failed
+3615,65,5677,lenskart,eyewear,2025-02-06,pune,completed
+3616,417,2444,jabong,ecommerce,2025-01-12,jaipur,failed
+3617,432,4924,paytm,finance,2025-01-16,pune,failed
+3618,61,6397,zomato,food,2025-01-21,cochin,completed
+3619,273,4633,swiggy,food,2025-03-04,ahmedabad,pending
+3620,192,8280,zomato,food,2025-01-20,jaipur,failed
+3621,148,2864,myntra,fashion,2025-01-20,pune,failed
+3622,468,8981,jabong,ecommerce,2025-01-18,hyderabad,pending
+3623,111,7970,jabong,ecommerce,2025-01-23,nagpur,completed
+3624,383,9796,nykaa,beauty,2025-01-21,chennai,completed
+3625,258,2812,croma,electronics,2025-01-16,surat,completed
+3626,98,6336,paytm,finance,2025-02-06,kolkata,failed
+3627,348,829,croma,electronics,2025-02-22,cochin,pending
+3628,394,6172,croma,electronics,2025-01-08,pune,pending
+3629,178,2158,flipkart,ecommerce,2025-02-24,pune,completed
+3630,41,8735,jabong,ecommerce,2025-01-25,kolkata,pending
+3631,208,9788,bookmyshow,entertainment,2025-01-22,ahmedabad,completed
+3632,286,6985,flipkart,ecommerce,2025-01-24,pune,failed
+3633,393,8048,reliance digital,electronics,2025-01-30,mumbai,failed
+3634,322,6651,swiggy,food,2025-02-03,pune,completed
+3635,152,4647,snapdeal,ecommerce,2025-01-06,chennai,completed
+3636,380,133,paytm,finance,2025-01-05,jaipur,completed
+3637,178,2124,hdfc bank,banking,2025-01-24,nagpur,pending
+3638,490,7959,amazon,ecommerce,2025-02-14,delhi,pending
+3639,405,6118,paytm,finance,2025-01-26,pune,pending
+3640,157,6877,nykaa,beauty,2025-01-21,mumbai,failed
+3641,287,2764,big bazaar,retail,2025-03-02,pune,pending
+3642,355,7660,amazon,ecommerce,2025-02-15,ahmedabad,pending
+3643,158,3958,swiggy,food,2025-01-28,ahmedabad,failed
+3644,324,8386,tata cliq,ecommerce,2025-01-31,cochin,completed
+3645,284,6396,big bazaar,retail,2025-01-01,nagpur,completed
+3646,16,7892,amazon,ecommerce,2025-01-07,ahmedabad,completed
+3647,56,9469,lenskart,eyewear,2025-01-08,jaipur,pending
+3648,452,3455,dominos,food,2025-02-05,jaipur,pending
+3649,373,4219,big bazaar,retail,2025-01-23,cochin,pending
+3650,364,5943,jabong,ecommerce,2025-02-15,ahmedabad,failed
+3651,353,3039,nykaa,beauty,2025-02-14,kolkata,completed
+3652,180,464,dominos,food,2025-01-26,ahmedabad,pending
+3653,35,101,croma,electronics,2025-01-20,cochin,pending
+3654,77,7143,snapdeal,ecommerce,2025-01-08,kolkata,completed
+3655,147,4977,lenskart,eyewear,2025-02-18,kolkata,pending
+3656,40,4137,tata cliq,ecommerce,2025-02-04,bangalore,failed
+3657,146,4568,big bazaar,retail,2025-01-23,delhi,failed
+3658,484,8228,tata cliq,ecommerce,2025-02-14,ahmedabad,failed
+3659,220,1355,flipkart,ecommerce,2025-01-17,bangalore,pending
+3660,32,9735,flipkart,ecommerce,2025-02-24,kolkata,pending
+3661,252,6583,flipkart,ecommerce,2025-01-28,jaipur,completed
+3662,135,9674,bookmyshow,entertainment,2025-01-27,hyderabad,pending
+3663,380,5547,snapdeal,ecommerce,2025-02-15,surat,completed
+3664,242,1997,jabong,ecommerce,2025-02-10,delhi,completed
+3665,187,6553,paytm,finance,2025-02-01,surat,pending
+3666,161,8003,zomato,food,2025-02-02,ahmedabad,pending
+3667,87,308,flipkart,ecommerce,2025-01-14,cochin,pending
+3668,408,3458,myntra,fashion,2025-01-24,pune,failed
+3669,346,2290,reliance digital,electronics,2025-01-31,mumbai,completed
+3670,482,4435,dominos,food,2025-01-19,kolkata,failed
+3671,474,4238,jabong,ecommerce,2025-02-08,mumbai,completed
+3672,226,2186,zomato,food,2025-02-19,chennai,completed
+3673,57,434,bookmyshow,entertainment,2025-01-15,chennai,pending
+3674,434,1051,nykaa,beauty,2025-01-15,delhi,failed
+3675,137,1214,reliance digital,electronics,2025-01-11,delhi,failed
+3676,487,5011,hdfc bank,banking,2025-01-23,ahmedabad,pending
+3677,334,7837,swiggy,food,2025-01-03,bangalore,pending
+3678,192,6803,flipkart,ecommerce,2025-02-08,chennai,pending
+3679,439,7790,croma,electronics,2025-01-18,bangalore,pending
+3680,225,5673,swiggy,food,2025-01-02,bangalore,failed
+3681,473,6724,bookmyshow,entertainment,2025-01-08,hyderabad,failed
+3682,266,2165,hdfc bank,banking,2025-03-02,mumbai,failed
+3683,131,1609,snapdeal,ecommerce,2025-01-25,surat,failed
+3684,11,1116,zomato,food,2025-02-25,nagpur,failed
+3685,324,7024,swiggy,food,2025-02-15,cochin,completed
+3686,425,163,jabong,ecommerce,2025-01-16,delhi,completed
+3687,386,1409,amazon,ecommerce,2025-02-11,kolkata,completed
+3688,154,3054,zomato,food,2025-02-11,chennai,pending
+3689,461,4349,swiggy,food,2025-01-15,hyderabad,pending
+3690,204,5595,jabong,ecommerce,2025-02-12,delhi,pending
+3691,102,8928,reliance digital,electronics,2025-02-21,hyderabad,pending
+3692,351,9260,tata cliq,ecommerce,2025-02-10,mumbai,pending
+3693,120,2883,jabong,ecommerce,2025-02-17,cochin,pending
+3694,439,7670,croma,electronics,2025-01-10,ahmedabad,pending
+3695,8,7401,tata cliq,ecommerce,2025-01-13,pune,completed
+3696,432,7507,dominos,food,2025-01-05,chennai,completed
+3697,261,7370,zomato,food,2025-01-14,hyderabad,pending
+3698,184,6886,bookmyshow,entertainment,2025-01-28,surat,pending
+3699,496,635,big bazaar,retail,2025-02-13,bangalore,failed
+3700,468,9409,hdfc bank,banking,2025-02-28,chennai,completed
+3701,267,9440,snapdeal,ecommerce,2025-03-04,mumbai,completed
+3702,372,3795,jabong,ecommerce,2025-02-12,nagpur,completed
+3703,360,6860,lenskart,eyewear,2025-01-13,hyderabad,completed
+3704,228,811,flipkart,ecommerce,2025-01-01,jaipur,failed
+3705,157,2798,bookmyshow,entertainment,2025-02-12,kolkata,pending
+3706,155,6654,swiggy,food,2025-02-27,cochin,pending
+3707,68,5287,nykaa,beauty,2025-02-11,surat,pending
+3708,479,9932,amazon,ecommerce,2025-01-11,hyderabad,pending
+3709,385,3398,amazon,ecommerce,2025-01-20,mumbai,completed
+3710,278,4700,swiggy,food,2025-03-02,delhi,completed
+3711,428,9427,flipkart,ecommerce,2025-01-22,pune,failed
+3712,97,9194,swiggy,food,2025-03-04,delhi,completed
+3713,404,3445,swiggy,food,2025-01-14,surat,failed
+3714,90,9821,dominos,food,2025-01-28,surat,failed
+3715,386,5562,flipkart,ecommerce,2025-02-23,hyderabad,failed
+3716,123,9036,flipkart,ecommerce,2025-02-17,kolkata,failed
+3717,307,7292,nykaa,beauty,2025-01-16,nagpur,pending
+3718,201,5221,tata cliq,ecommerce,2025-01-22,pune,completed
+3719,82,2446,tata cliq,ecommerce,2025-02-24,kolkata,failed
+3720,388,3357,nykaa,beauty,2025-02-14,nagpur,failed
+3721,104,160,bookmyshow,entertainment,2025-03-05,cochin,pending
+3722,329,848,nykaa,beauty,2025-03-03,chennai,pending
+3723,99,920,reliance digital,electronics,2025-02-25,pune,pending
+3724,239,8491,reliance digital,electronics,2025-02-05,pune,completed
+3725,300,3967,dominos,food,2025-01-13,bangalore,failed
+3726,363,1556,swiggy,food,2025-01-16,bangalore,failed
+3727,245,8110,snapdeal,ecommerce,2025-02-27,cochin,pending
+3728,418,557,hdfc bank,banking,2025-01-14,mumbai,failed
+3729,469,2446,hdfc bank,banking,2025-02-17,jaipur,pending
+3730,413,9780,swiggy,food,2025-02-13,pune,completed
+3731,109,158,swiggy,food,2025-02-13,pune,failed
+3732,169,5469,reliance digital,electronics,2025-01-21,nagpur,pending
+3733,207,7537,hdfc bank,banking,2025-02-02,delhi,pending
+3734,42,8054,myntra,fashion,2025-01-31,bangalore,pending
+3735,268,2698,swiggy,food,2025-02-22,mumbai,pending
+3736,148,7608,hdfc bank,banking,2025-01-16,cochin,pending
+3737,254,6288,amazon,ecommerce,2025-01-25,jaipur,pending
+3738,468,2033,tata cliq,ecommerce,2025-02-18,ahmedabad,pending
+3739,151,4705,jabong,ecommerce,2025-02-15,nagpur,failed
+3740,411,3890,jabong,ecommerce,2025-01-23,cochin,pending
+3741,120,2301,dominos,food,2025-02-26,kolkata,pending
+3742,273,287,bookmyshow,entertainment,2025-01-09,nagpur,pending
+3743,472,1897,myntra,fashion,2025-02-28,cochin,completed
+3744,2,4791,tata cliq,ecommerce,2025-01-14,mumbai,completed
+3745,37,9191,tata cliq,ecommerce,2025-01-21,cochin,pending
+3746,327,3308,lenskart,eyewear,2025-03-02,bangalore,pending
+3747,268,2737,flipkart,ecommerce,2025-01-10,jaipur,completed
+3748,288,6647,myntra,fashion,2025-02-25,kolkata,pending
+3749,303,6751,hdfc bank,banking,2025-01-19,hyderabad,pending
+3750,215,5775,croma,electronics,2025-01-27,mumbai,pending
+3751,352,563,amazon,ecommerce,2025-02-06,surat,failed
+3752,296,7703,big bazaar,retail,2025-02-10,nagpur,completed
+3753,257,8731,flipkart,ecommerce,2025-02-09,kolkata,completed
+3754,367,9140,zomato,food,2025-01-08,cochin,failed
+3755,7,7106,lenskart,eyewear,2025-01-15,kolkata,completed
+3756,288,7446,flipkart,ecommerce,2025-02-28,ahmedabad,pending
+3757,197,4110,snapdeal,ecommerce,2025-02-08,delhi,completed
+3758,85,3572,dominos,food,2025-02-28,cochin,failed
+3759,187,3649,tata cliq,ecommerce,2025-02-14,pune,pending
+3760,305,2762,zomato,food,2025-02-10,jaipur,failed
+3761,188,6607,myntra,fashion,2025-01-26,ahmedabad,completed
+3762,30,5135,tata cliq,ecommerce,2025-02-15,nagpur,completed
+3763,380,8502,zomato,food,2025-01-19,cochin,failed
+3764,226,6794,reliance digital,electronics,2025-02-19,ahmedabad,completed
+3765,190,237,tata cliq,ecommerce,2025-02-19,surat,pending
+3766,484,4812,croma,electronics,2025-01-11,mumbai,failed
+3767,292,320,dominos,food,2025-01-28,cochin,pending
+3768,9,8037,amazon,ecommerce,2025-02-17,ahmedabad,pending
+3769,383,133,bookmyshow,entertainment,2025-01-02,mumbai,failed
+3770,310,5225,croma,electronics,2025-02-06,pune,completed
+3771,151,4980,croma,electronics,2025-01-07,kolkata,failed
+3772,287,942,snapdeal,ecommerce,2025-02-21,hyderabad,completed
+3773,54,895,dominos,food,2025-01-15,delhi,pending
+3774,211,2785,paytm,finance,2025-01-30,jaipur,completed
+3775,4,1928,snapdeal,ecommerce,2025-01-05,surat,completed
+3776,140,2276,myntra,fashion,2025-01-19,mumbai,failed
+3777,328,5111,bookmyshow,entertainment,2025-02-19,surat,failed
+3778,165,2129,snapdeal,ecommerce,2025-02-15,jaipur,pending
+3779,28,2940,swiggy,food,2025-01-28,kolkata,completed
+3780,175,7374,tata cliq,ecommerce,2025-02-13,kolkata,completed
+3781,247,1198,bookmyshow,entertainment,2025-02-24,bangalore,pending
+3782,409,9671,hdfc bank,banking,2025-01-20,delhi,pending
+3783,237,9480,paytm,finance,2025-01-31,delhi,pending
+3784,282,2822,flipkart,ecommerce,2025-03-02,mumbai,completed
+3785,49,6244,flipkart,ecommerce,2025-02-01,ahmedabad,failed
+3786,445,9683,jabong,ecommerce,2025-01-08,nagpur,failed
+3787,62,5087,paytm,finance,2025-01-29,ahmedabad,completed
+3788,168,4443,hdfc bank,banking,2025-01-30,cochin,completed
+3789,271,979,nykaa,beauty,2025-02-26,bangalore,failed
+3790,339,2173,jabong,ecommerce,2025-01-17,jaipur,failed
+3791,170,3256,amazon,ecommerce,2025-02-06,bangalore,failed
+3792,353,7649,nykaa,beauty,2025-02-04,ahmedabad,completed
+3793,457,7001,snapdeal,ecommerce,2025-03-01,cochin,completed
+3794,57,1009,paytm,finance,2025-02-03,cochin,pending
+3795,488,3134,croma,electronics,2025-02-19,surat,pending
+3796,130,8959,dominos,food,2025-03-02,chennai,pending
+3797,444,7822,snapdeal,ecommerce,2025-01-18,bangalore,failed
+3798,321,908,bookmyshow,entertainment,2025-01-31,pune,completed
+3799,330,4560,reliance digital,electronics,2025-02-15,chennai,completed
+3800,279,2465,flipkart,ecommerce,2025-01-05,surat,failed
+3801,110,828,zomato,food,2025-02-21,bangalore,completed
+3802,8,8632,zomato,food,2025-02-03,ahmedabad,completed
+3803,266,6691,swiggy,food,2025-03-01,mumbai,pending
+3804,60,8997,reliance digital,electronics,2025-01-27,surat,pending
+3805,124,5831,amazon,ecommerce,2025-01-18,surat,failed
+3806,455,4097,big bazaar,retail,2025-02-16,nagpur,completed
+3807,202,3495,reliance digital,electronics,2025-02-13,surat,completed
+3808,123,3437,hdfc bank,banking,2025-01-12,kolkata,failed
+3809,360,924,reliance digital,electronics,2025-02-15,surat,completed
+3810,398,7555,paytm,finance,2025-02-07,hyderabad,failed
+3811,11,3509,jabong,ecommerce,2025-02-01,delhi,failed
+3812,67,1197,amazon,ecommerce,2025-02-27,nagpur,pending
+3813,491,4531,hdfc bank,banking,2025-03-04,pune,failed
+3814,160,9306,swiggy,food,2025-01-02,bangalore,pending
+3815,382,961,bookmyshow,entertainment,2025-01-03,hyderabad,completed
+3816,358,3949,snapdeal,ecommerce,2025-02-02,chennai,failed
+3817,440,7159,swiggy,food,2025-01-20,pune,pending
+3818,165,3471,croma,electronics,2025-02-17,nagpur,pending
+3819,129,7366,lenskart,eyewear,2025-01-04,chennai,completed
+3820,492,2522,hdfc bank,banking,2025-02-09,nagpur,pending
+3821,42,787,snapdeal,ecommerce,2025-02-23,bangalore,failed
+3822,483,4496,croma,electronics,2025-03-01,chennai,failed
+3823,173,2420,croma,electronics,2025-01-21,nagpur,pending
+3824,7,1898,reliance digital,electronics,2025-01-08,delhi,completed
+3825,65,1470,dominos,food,2025-01-06,ahmedabad,pending
+3826,48,2475,hdfc bank,banking,2025-01-28,bangalore,failed
+3827,491,645,paytm,finance,2025-03-01,mumbai,pending
+3828,441,9394,reliance digital,electronics,2025-01-28,chennai,completed
+3829,285,4321,bookmyshow,entertainment,2025-03-03,pune,completed
+3830,464,9310,paytm,finance,2025-02-19,kolkata,failed
+3831,48,7473,bookmyshow,entertainment,2025-02-10,chennai,failed
+3832,355,6999,zomato,food,2025-01-04,hyderabad,pending
+3833,56,9219,bookmyshow,entertainment,2025-03-01,bangalore,completed
+3834,378,8577,tata cliq,ecommerce,2025-01-16,pune,pending
+3835,326,891,myntra,fashion,2025-01-02,pune,completed
+3836,261,4857,myntra,fashion,2025-02-27,ahmedabad,failed
+3837,31,5117,lenskart,eyewear,2025-01-02,bangalore,failed
+3838,290,4489,flipkart,ecommerce,2025-02-09,jaipur,pending
+3839,450,497,lenskart,eyewear,2025-01-19,jaipur,completed
+3840,181,4304,flipkart,ecommerce,2025-01-11,bangalore,pending
+3841,91,9022,big bazaar,retail,2025-01-03,hyderabad,failed
+3842,414,5973,hdfc bank,banking,2025-02-04,nagpur,completed
+3843,3,6316,hdfc bank,banking,2025-01-13,bangalore,completed
+3844,140,7199,nykaa,beauty,2025-01-29,nagpur,failed
+3845,179,5890,jabong,ecommerce,2025-02-06,mumbai,completed
+3846,398,2906,swiggy,food,2025-01-06,pune,pending
+3847,209,7881,jabong,ecommerce,2025-01-28,ahmedabad,pending
+3848,207,7432,amazon,ecommerce,2025-03-05,kolkata,pending
+3849,37,4422,myntra,fashion,2025-01-17,cochin,completed
+3850,348,2518,reliance digital,electronics,2025-01-27,mumbai,pending
+3851,66,2521,tata cliq,ecommerce,2025-02-09,mumbai,pending
+3852,6,1161,hdfc bank,banking,2025-02-16,nagpur,failed
+3853,469,2261,swiggy,food,2025-02-25,pune,failed
+3854,188,4454,swiggy,food,2025-02-11,jaipur,failed
+3855,31,4809,zomato,food,2025-01-04,nagpur,pending
+3856,14,6685,bookmyshow,entertainment,2025-03-03,delhi,failed
+3857,332,8349,myntra,fashion,2025-01-27,bangalore,pending
+3858,261,2834,amazon,ecommerce,2025-03-01,delhi,completed
+3859,486,7551,myntra,fashion,2025-01-15,kolkata,failed
+3860,32,939,croma,electronics,2025-02-26,bangalore,failed
+3861,81,1043,hdfc bank,banking,2025-01-19,chennai,failed
+3862,109,2664,zomato,food,2025-01-29,nagpur,failed
+3863,311,3170,paytm,finance,2025-02-17,jaipur,completed
+3864,450,9413,tata cliq,ecommerce,2025-01-18,hyderabad,completed
+3865,128,6958,flipkart,ecommerce,2025-01-15,bangalore,completed
+3866,107,1527,bookmyshow,entertainment,2025-03-02,bangalore,pending
+3867,363,4081,flipkart,ecommerce,2025-02-24,cochin,completed
+3868,71,5478,flipkart,ecommerce,2025-02-15,nagpur,failed
+3869,330,6663,myntra,fashion,2025-02-22,hyderabad,failed
+3870,432,9812,snapdeal,ecommerce,2025-02-10,surat,completed
+3871,28,1842,jabong,ecommerce,2025-01-31,pune,pending
+3872,56,1686,reliance digital,electronics,2025-02-23,cochin,failed
+3873,3,2907,hdfc bank,banking,2025-02-20,ahmedabad,failed
+3874,12,4317,big bazaar,retail,2025-01-04,bangalore,completed
+3875,231,5201,tata cliq,ecommerce,2025-03-03,delhi,completed
+3876,113,5534,nykaa,beauty,2025-02-03,hyderabad,pending
+3877,167,9157,swiggy,food,2025-02-10,mumbai,completed
+3878,179,2886,snapdeal,ecommerce,2025-02-18,jaipur,failed
+3879,114,132,tata cliq,ecommerce,2025-01-01,pune,completed
+3880,407,1791,lenskart,eyewear,2025-01-28,ahmedabad,pending
+3881,308,3167,croma,electronics,2025-02-19,hyderabad,pending
+3882,2,3556,myntra,fashion,2025-01-29,hyderabad,pending
+3883,44,3553,tata cliq,ecommerce,2025-01-30,chennai,completed
+3884,344,8472,jabong,ecommerce,2025-01-31,bangalore,failed
+3885,490,6619,lenskart,eyewear,2025-02-22,bangalore,failed
+3886,235,6915,jabong,ecommerce,2025-01-07,mumbai,pending
+3887,33,7372,flipkart,ecommerce,2025-02-15,mumbai,pending
+3888,37,7939,reliance digital,electronics,2025-02-20,surat,pending
+3889,353,1386,tata cliq,ecommerce,2025-01-12,surat,completed
+3890,111,8720,hdfc bank,banking,2025-01-31,chennai,pending
+3891,421,2724,amazon,ecommerce,2025-03-05,bangalore,failed
+3892,210,9314,jabong,ecommerce,2025-01-31,mumbai,pending
+3893,444,3053,bookmyshow,entertainment,2025-01-24,nagpur,failed
+3894,196,309,amazon,ecommerce,2025-01-16,delhi,completed
+3895,433,7725,reliance digital,electronics,2025-02-25,kolkata,completed
+3896,412,130,bookmyshow,entertainment,2025-02-11,mumbai,failed
+3897,252,5262,nykaa,beauty,2025-03-05,mumbai,pending
+3898,396,8743,big bazaar,retail,2025-01-19,hyderabad,completed
+3899,118,8292,bookmyshow,entertainment,2025-03-05,delhi,failed
+3900,155,2885,nykaa,beauty,2025-01-20,pune,completed
+3901,357,3897,jabong,ecommerce,2025-01-07,bangalore,completed
+3902,129,5197,snapdeal,ecommerce,2025-01-20,delhi,failed
+3903,259,4132,croma,electronics,2025-01-19,ahmedabad,completed
+3904,154,4629,snapdeal,ecommerce,2025-01-25,kolkata,pending
+3905,23,779,lenskart,eyewear,2025-02-14,surat,failed
+3906,403,2186,snapdeal,ecommerce,2025-01-06,nagpur,failed
+3907,438,9186,paytm,finance,2025-03-01,delhi,pending
+3908,185,7254,flipkart,ecommerce,2025-02-14,chennai,completed
+3909,89,851,zomato,food,2025-03-01,ahmedabad,failed
+3910,82,3814,paytm,finance,2025-01-05,hyderabad,pending
+3911,247,4826,big bazaar,retail,2025-02-03,bangalore,pending
+3912,301,4562,bookmyshow,entertainment,2025-02-22,kolkata,pending
+3913,339,2967,hdfc bank,banking,2025-02-22,jaipur,failed
+3914,223,5045,flipkart,ecommerce,2025-03-02,cochin,failed
+3915,113,2946,jabong,ecommerce,2025-02-05,pune,completed
+3916,126,9457,jabong,ecommerce,2025-02-18,delhi,completed
+3917,414,1977,paytm,finance,2025-02-15,cochin,pending
+3918,218,229,reliance digital,electronics,2025-02-19,surat,failed
+3919,138,4185,big bazaar,retail,2025-02-26,surat,pending
+3920,187,1179,nykaa,beauty,2025-02-09,cochin,pending
+3921,216,1583,amazon,ecommerce,2025-01-19,chennai,completed
+3922,174,3422,reliance digital,electronics,2025-01-30,jaipur,completed
+3923,129,7880,amazon,ecommerce,2025-01-08,chennai,failed
+3924,18,6068,hdfc bank,banking,2025-02-04,hyderabad,failed
+3925,116,7379,big bazaar,retail,2025-02-19,ahmedabad,completed
+3926,323,8278,swiggy,food,2025-01-21,chennai,failed
+3927,263,2712,swiggy,food,2025-01-10,ahmedabad,pending
+3928,484,9085,hdfc bank,banking,2025-01-12,mumbai,pending
+3929,238,4713,myntra,fashion,2025-01-06,surat,pending
+3930,263,5197,dominos,food,2025-02-27,delhi,completed
+3931,457,6187,amazon,ecommerce,2025-01-03,nagpur,completed
+3932,56,960,dominos,food,2025-03-05,nagpur,pending
+3933,415,5218,hdfc bank,banking,2025-02-15,kolkata,failed
+3934,80,4986,jabong,ecommerce,2025-02-14,pune,pending
+3935,225,8201,snapdeal,ecommerce,2025-03-05,jaipur,failed
+3936,132,6683,nykaa,beauty,2025-01-03,cochin,completed
+3937,405,927,lenskart,eyewear,2025-02-27,jaipur,pending
+3938,38,7933,reliance digital,electronics,2025-02-19,kolkata,failed
+3939,119,6277,tata cliq,ecommerce,2025-01-19,ahmedabad,completed
+3940,207,3663,reliance digital,electronics,2025-01-07,delhi,pending
+3941,330,6581,tata cliq,ecommerce,2025-03-01,nagpur,pending
+3942,174,9409,flipkart,ecommerce,2025-03-05,bangalore,pending
+3943,162,1193,dominos,food,2025-02-02,pune,failed
+3944,375,4591,flipkart,ecommerce,2025-01-27,hyderabad,completed
+3945,141,1620,paytm,finance,2025-01-28,chennai,failed
+3946,119,5833,hdfc bank,banking,2025-01-07,ahmedabad,failed
+3947,114,9156,croma,electronics,2025-01-07,mumbai,failed
+3948,356,4909,myntra,fashion,2025-01-05,jaipur,pending
+3949,251,3923,swiggy,food,2025-01-31,mumbai,completed
+3950,39,1258,lenskart,eyewear,2025-01-12,cochin,completed
+3951,142,5353,flipkart,ecommerce,2025-02-06,mumbai,completed
+3952,334,8816,croma,electronics,2025-01-11,pune,completed
+3953,222,6372,big bazaar,retail,2025-03-04,ahmedabad,failed
+3954,268,9087,lenskart,eyewear,2025-02-27,ahmedabad,pending
+3955,8,4157,lenskart,eyewear,2025-01-19,bangalore,failed
+3956,342,8771,amazon,ecommerce,2025-01-13,surat,failed
+3957,417,7860,swiggy,food,2025-01-26,jaipur,completed
+3958,100,6034,zomato,food,2025-02-18,surat,pending
+3959,226,8578,myntra,fashion,2025-01-21,nagpur,pending
+3960,216,8878,zomato,food,2025-02-22,chennai,pending
+3961,456,4523,snapdeal,ecommerce,2025-02-06,mumbai,completed
+3962,298,9709,snapdeal,ecommerce,2025-01-19,ahmedabad,completed
+3963,496,3745,flipkart,ecommerce,2025-02-27,pune,completed
+3964,213,8870,snapdeal,ecommerce,2025-01-12,delhi,failed
+3965,312,3677,dominos,food,2025-01-04,nagpur,failed
+3966,449,8936,reliance digital,electronics,2025-02-07,mumbai,pending
+3967,165,5398,snapdeal,ecommerce,2025-01-20,mumbai,failed
+3968,101,923,big bazaar,retail,2025-02-17,kolkata,failed
+3969,318,5896,flipkart,ecommerce,2025-01-08,delhi,completed
+3970,274,6693,lenskart,eyewear,2025-02-01,jaipur,pending
+3971,61,8974,nykaa,beauty,2025-01-15,ahmedabad,completed
+3972,280,4422,croma,electronics,2025-02-25,cochin,failed
+3973,479,7150,bookmyshow,entertainment,2025-02-27,cochin,failed
+3974,126,8523,myntra,fashion,2025-03-05,ahmedabad,pending
+3975,58,115,nykaa,beauty,2025-02-17,bangalore,failed
+3976,221,4592,snapdeal,ecommerce,2025-01-28,chennai,failed
+3977,279,4778,lenskart,eyewear,2025-02-28,surat,completed
+3978,48,3207,bookmyshow,entertainment,2025-02-09,nagpur,pending
+3979,285,6926,jabong,ecommerce,2025-02-25,delhi,pending
+3980,413,9102,bookmyshow,entertainment,2025-02-14,nagpur,failed
+3981,76,1737,nykaa,beauty,2025-02-17,chennai,completed
+3982,148,7454,nykaa,beauty,2025-02-25,mumbai,failed
+3983,423,7079,croma,electronics,2025-02-17,kolkata,failed
+3984,452,4319,hdfc bank,banking,2025-02-24,mumbai,failed
+3985,448,957,flipkart,ecommerce,2025-01-06,chennai,completed
+3986,390,2115,jabong,ecommerce,2025-02-18,pune,pending
+3987,199,8636,zomato,food,2025-01-02,chennai,failed
+3988,219,6092,dominos,food,2025-02-25,ahmedabad,completed
+3989,156,3654,flipkart,ecommerce,2025-02-07,kolkata,failed
+3990,21,5503,amazon,ecommerce,2025-02-09,hyderabad,failed
+3991,352,6871,swiggy,food,2025-01-23,chennai,pending
+3992,359,5816,paytm,finance,2025-01-17,jaipur,pending
+3993,90,6553,swiggy,food,2025-02-05,ahmedabad,completed
+3994,117,3826,tata cliq,ecommerce,2025-01-31,mumbai,pending
+3995,386,3665,lenskart,eyewear,2025-01-07,chennai,completed
+3996,404,7499,zomato,food,2025-01-08,bangalore,failed
+3997,130,9958,big bazaar,retail,2025-01-17,hyderabad,pending
+3998,329,6928,snapdeal,ecommerce,2025-01-24,nagpur,completed
+3999,302,9787,hdfc bank,banking,2025-01-12,cochin,pending
+4000,106,1656,big bazaar,retail,2025-03-04,cochin,completed
+4001,75,9057,big bazaar,retail,2025-01-23,mumbai,pending
+4002,490,8280,bookmyshow,entertainment,2025-02-14,nagpur,failed
+4003,121,2973,hdfc bank,banking,2025-02-02,delhi,pending
+4004,77,306,snapdeal,ecommerce,2025-01-01,hyderabad,failed
+4005,396,3368,tata cliq,ecommerce,2025-01-12,chennai,pending
+4006,453,6072,lenskart,eyewear,2025-03-05,mumbai,failed
+4007,34,8565,myntra,fashion,2025-01-25,chennai,completed
+4008,496,1523,tata cliq,ecommerce,2025-03-03,cochin,failed
+4009,430,2430,lenskart,eyewear,2025-03-05,nagpur,pending
+4010,49,3417,zomato,food,2025-02-09,delhi,failed
+4011,67,3349,bookmyshow,entertainment,2025-02-02,cochin,completed
+4012,383,7718,hdfc bank,banking,2025-02-07,surat,pending
+4013,296,5216,reliance digital,electronics,2025-01-11,surat,pending
+4014,282,5595,lenskart,eyewear,2025-02-19,delhi,pending
+4015,407,6320,nykaa,beauty,2025-02-13,jaipur,pending
+4016,229,6669,big bazaar,retail,2025-02-11,hyderabad,completed
+4017,43,2533,lenskart,eyewear,2025-02-08,kolkata,failed
+4018,174,9812,nykaa,beauty,2025-02-02,delhi,failed
+4019,480,8673,lenskart,eyewear,2025-02-01,cochin,failed
+4020,279,5996,paytm,finance,2025-02-25,surat,completed
+4021,150,2851,nykaa,beauty,2025-02-07,bangalore,failed
+4022,209,9594,swiggy,food,2025-01-19,nagpur,completed
+4023,458,1097,tata cliq,ecommerce,2025-01-07,kolkata,completed
+4024,409,1193,hdfc bank,banking,2025-01-11,surat,pending
+4025,252,7480,zomato,food,2025-01-21,ahmedabad,completed
+4026,326,6410,lenskart,eyewear,2025-02-24,kolkata,failed
+4027,308,4597,tata cliq,ecommerce,2025-01-23,delhi,completed
+4028,351,4014,myntra,fashion,2025-01-22,bangalore,failed
+4029,142,3244,swiggy,food,2025-01-27,surat,pending
+4030,334,1102,paytm,finance,2025-02-18,delhi,completed
+4031,66,1571,snapdeal,ecommerce,2025-02-07,hyderabad,completed
+4032,29,9878,snapdeal,ecommerce,2025-02-17,mumbai,failed
+4033,326,4292,amazon,ecommerce,2025-02-03,kolkata,completed
+4034,427,2699,myntra,fashion,2025-02-25,chennai,completed
+4035,154,9546,flipkart,ecommerce,2025-01-28,mumbai,completed
+4036,83,6818,big bazaar,retail,2025-02-07,delhi,completed
+4037,108,5816,bookmyshow,entertainment,2025-01-20,kolkata,pending
+4038,287,3983,jabong,ecommerce,2025-03-04,surat,pending
+4039,220,4823,lenskart,eyewear,2025-02-12,surat,completed
+4040,491,6484,paytm,finance,2025-02-27,delhi,completed
+4041,103,3824,paytm,finance,2025-01-19,nagpur,completed
+4042,457,1298,hdfc bank,banking,2025-01-18,mumbai,failed
+4043,291,3158,bookmyshow,entertainment,2025-01-15,nagpur,completed
+4044,223,987,tata cliq,ecommerce,2025-01-20,bangalore,failed
+4045,126,7874,croma,electronics,2025-02-18,mumbai,failed
+4046,235,4731,dominos,food,2025-01-12,hyderabad,pending
+4047,341,4953,croma,electronics,2025-01-09,delhi,failed
+4048,95,633,tata cliq,ecommerce,2025-03-05,hyderabad,completed
+4049,252,2505,nykaa,beauty,2025-02-21,ahmedabad,completed
+4050,413,4413,croma,electronics,2025-01-15,chennai,pending
+4051,64,2718,nykaa,beauty,2025-02-14,chennai,completed
+4052,126,2263,paytm,finance,2025-01-25,mumbai,completed
+4053,389,7913,jabong,ecommerce,2025-02-03,chennai,failed
+4054,131,4839,jabong,ecommerce,2025-01-25,delhi,failed
+4055,373,3006,nykaa,beauty,2025-03-02,chennai,pending
+4056,220,3749,amazon,ecommerce,2025-01-25,pune,completed
+4057,474,2971,paytm,finance,2025-01-25,cochin,completed
+4058,372,6826,jabong,ecommerce,2025-02-19,chennai,completed
+4059,83,6667,jabong,ecommerce,2025-01-30,cochin,failed
+4060,48,1075,dominos,food,2025-01-20,mumbai,pending
+4061,208,541,jabong,ecommerce,2025-02-20,jaipur,failed
+4062,428,6424,snapdeal,ecommerce,2025-01-17,nagpur,completed
+4063,13,3075,big bazaar,retail,2025-02-15,chennai,pending
+4064,277,9552,dominos,food,2025-01-01,ahmedabad,completed
+4065,440,1907,big bazaar,retail,2025-02-02,mumbai,completed
+4066,342,7357,zomato,food,2025-03-03,pune,completed
+4067,235,8072,flipkart,ecommerce,2025-02-22,delhi,failed
+4068,375,6225,paytm,finance,2025-01-01,bangalore,failed
+4069,60,7004,reliance digital,electronics,2025-03-01,ahmedabad,pending
+4070,23,6408,bookmyshow,entertainment,2025-01-30,pune,completed
+4071,152,8621,snapdeal,ecommerce,2025-02-11,delhi,failed
+4072,457,7355,flipkart,ecommerce,2025-01-13,delhi,completed
+4073,394,1251,amazon,ecommerce,2025-01-07,hyderabad,completed
+4074,114,832,paytm,finance,2025-01-22,delhi,completed
+4075,302,1515,tata cliq,ecommerce,2025-01-01,pune,failed
+4076,95,9678,snapdeal,ecommerce,2025-02-28,surat,completed
+4077,135,9755,nykaa,beauty,2025-02-07,chennai,completed
+4078,359,9013,tata cliq,ecommerce,2025-02-07,surat,pending
+4079,37,5768,myntra,fashion,2025-02-21,kolkata,failed
+4080,207,8808,lenskart,eyewear,2025-01-30,surat,pending
+4081,264,6525,paytm,finance,2025-01-24,ahmedabad,pending
+4082,458,2748,flipkart,ecommerce,2025-02-09,chennai,failed
+4083,285,6204,amazon,ecommerce,2025-02-08,mumbai,completed
+4084,160,5729,reliance digital,electronics,2025-01-06,mumbai,failed
+4085,405,7183,tata cliq,ecommerce,2025-02-10,kolkata,pending
+4086,133,1231,nykaa,beauty,2025-02-02,bangalore,completed
+4087,110,3164,swiggy,food,2025-01-15,pune,completed
+4088,477,9743,jabong,ecommerce,2025-01-14,mumbai,pending
+4089,98,3170,bookmyshow,entertainment,2025-01-19,surat,completed
+4090,16,1621,hdfc bank,banking,2025-01-05,kolkata,pending
+4091,499,9221,reliance digital,electronics,2025-01-21,surat,pending
+4092,90,6338,reliance digital,electronics,2025-01-09,kolkata,failed
+4093,358,3267,nykaa,beauty,2025-02-04,pune,pending
+4094,410,6167,flipkart,ecommerce,2025-01-23,kolkata,pending
+4095,70,8299,nykaa,beauty,2025-01-01,bangalore,failed
+4096,293,5468,nykaa,beauty,2025-01-02,jaipur,pending
+4097,308,2446,jabong,ecommerce,2025-03-04,delhi,pending
+4098,207,3521,hdfc bank,banking,2025-01-09,delhi,pending
+4099,123,9817,dominos,food,2025-03-05,delhi,completed
+4100,55,8538,snapdeal,ecommerce,2025-02-17,hyderabad,failed
+4101,53,3240,tata cliq,ecommerce,2025-01-13,ahmedabad,completed
+4102,291,8451,paytm,finance,2025-02-21,hyderabad,failed
+4103,10,8184,reliance digital,electronics,2025-02-14,bangalore,pending
+4104,234,813,reliance digital,electronics,2025-03-01,surat,pending
+4105,308,2619,big bazaar,retail,2025-02-28,bangalore,completed
+4106,219,3396,tata cliq,ecommerce,2025-01-20,kolkata,completed
+4107,32,9030,bookmyshow,entertainment,2025-01-21,ahmedabad,pending
+4108,102,4923,swiggy,food,2025-01-06,delhi,failed
+4109,47,4068,hdfc bank,banking,2025-01-04,hyderabad,failed
+4110,400,7225,tata cliq,ecommerce,2025-03-04,surat,failed
+4111,250,4099,myntra,fashion,2025-01-23,nagpur,failed
+4112,60,6690,zomato,food,2025-02-28,kolkata,pending
+4113,175,201,flipkart,ecommerce,2025-01-14,jaipur,failed
+4114,91,5502,croma,electronics,2025-01-19,pune,completed
+4115,207,3488,croma,electronics,2025-03-02,mumbai,failed
+4116,367,3396,myntra,fashion,2025-01-25,cochin,pending
+4117,15,798,jabong,ecommerce,2025-01-05,bangalore,failed
+4118,387,283,hdfc bank,banking,2025-02-08,surat,completed
+4119,121,6801,zomato,food,2025-02-14,pune,failed
+4120,222,7460,dominos,food,2025-02-14,ahmedabad,completed
+4121,136,3295,swiggy,food,2025-02-17,delhi,completed
+4122,384,3267,swiggy,food,2025-01-13,jaipur,failed
+4123,244,5409,big bazaar,retail,2025-02-15,hyderabad,pending
+4124,401,3607,amazon,ecommerce,2025-01-22,chennai,pending
+4125,226,6131,croma,electronics,2025-02-11,bangalore,completed
+4126,484,5842,swiggy,food,2025-01-14,surat,failed
+4127,133,6303,swiggy,food,2025-02-13,pune,failed
+4128,231,8765,nykaa,beauty,2025-03-01,ahmedabad,failed
+4129,221,1333,big bazaar,retail,2025-02-07,bangalore,failed
+4130,60,481,snapdeal,ecommerce,2025-02-17,chennai,failed
+4131,128,3780,croma,electronics,2025-02-17,mumbai,pending
+4132,33,3635,amazon,ecommerce,2025-02-13,kolkata,failed
+4133,323,2151,jabong,ecommerce,2025-01-20,chennai,pending
+4134,170,3333,snapdeal,ecommerce,2025-01-18,jaipur,completed
+4135,291,2307,tata cliq,ecommerce,2025-01-04,ahmedabad,failed
+4136,428,9099,bookmyshow,entertainment,2025-02-07,jaipur,failed
+4137,430,8567,lenskart,eyewear,2025-02-20,kolkata,pending
+4138,487,8748,big bazaar,retail,2025-03-03,ahmedabad,failed
+4139,227,9601,myntra,fashion,2025-02-02,pune,pending
+4140,84,3421,tata cliq,ecommerce,2025-02-25,cochin,completed
+4141,181,7004,myntra,fashion,2025-01-19,hyderabad,completed
+4142,206,8570,flipkart,ecommerce,2025-01-03,kolkata,completed
+4143,164,186,zomato,food,2025-01-01,pune,failed
+4144,128,4548,nykaa,beauty,2025-01-30,cochin,failed
+4145,485,3989,croma,electronics,2025-02-07,cochin,completed
+4146,300,521,paytm,finance,2025-01-24,surat,completed
+4147,392,948,croma,electronics,2025-01-09,delhi,failed
+4148,32,8015,hdfc bank,banking,2025-02-08,surat,pending
+4149,382,6759,tata cliq,ecommerce,2025-01-09,ahmedabad,pending
+4150,433,8896,nykaa,beauty,2025-02-15,kolkata,failed
+4151,299,7497,hdfc bank,banking,2025-02-13,chennai,pending
+4152,492,3454,tata cliq,ecommerce,2025-02-06,hyderabad,pending
+4153,485,9590,hdfc bank,banking,2025-01-17,nagpur,failed
+4154,80,5286,lenskart,eyewear,2025-02-13,chennai,completed
+4155,123,3029,paytm,finance,2025-02-25,cochin,completed
+4156,343,8102,flipkart,ecommerce,2025-02-08,pune,pending
+4157,242,3630,flipkart,ecommerce,2025-01-18,hyderabad,failed
+4158,191,2166,nykaa,beauty,2025-02-06,jaipur,completed
+4159,125,8263,nykaa,beauty,2025-01-26,nagpur,failed
+4160,268,9882,myntra,fashion,2025-01-19,ahmedabad,failed
+4161,300,1047,swiggy,food,2025-01-07,cochin,pending
+4162,105,7859,snapdeal,ecommerce,2025-03-03,hyderabad,pending
+4163,167,593,nykaa,beauty,2025-02-22,delhi,completed
+4164,112,5372,flipkart,ecommerce,2025-01-25,surat,failed
+4165,233,3533,snapdeal,ecommerce,2025-02-23,cochin,completed
+4166,450,914,flipkart,ecommerce,2025-02-05,kolkata,completed
+4167,104,1991,dominos,food,2025-02-22,hyderabad,pending
+4168,401,7052,myntra,fashion,2025-01-06,delhi,completed
+4169,109,4830,croma,electronics,2025-02-21,delhi,failed
+4170,24,6327,jabong,ecommerce,2025-01-14,mumbai,pending
+4171,24,517,paytm,finance,2025-01-02,bangalore,pending
+4172,398,8523,big bazaar,retail,2025-01-25,jaipur,pending
+4173,487,8328,reliance digital,electronics,2025-02-07,kolkata,completed
+4174,473,9502,zomato,food,2025-01-03,mumbai,failed
+4175,94,6982,nykaa,beauty,2025-01-20,cochin,pending
+4176,232,5524,croma,electronics,2025-02-13,pune,completed
+4177,375,5887,amazon,ecommerce,2025-01-14,nagpur,completed
+4178,143,3971,nykaa,beauty,2025-02-04,kolkata,pending
+4179,235,2517,bookmyshow,entertainment,2025-02-06,jaipur,pending
+4180,454,2964,amazon,ecommerce,2025-01-12,ahmedabad,completed
+4181,488,8087,jabong,ecommerce,2025-02-10,nagpur,completed
+4182,55,6901,snapdeal,ecommerce,2025-02-15,surat,completed
+4183,414,5764,flipkart,ecommerce,2025-01-06,pune,pending
+4184,450,1955,lenskart,eyewear,2025-01-26,mumbai,failed
+4185,486,6862,croma,electronics,2025-01-16,hyderabad,pending
+4186,450,6294,paytm,finance,2025-01-07,ahmedabad,pending
+4187,373,9004,paytm,finance,2025-03-04,chennai,failed
+4188,134,7700,swiggy,food,2025-01-02,hyderabad,pending
+4189,372,9821,reliance digital,electronics,2025-01-04,ahmedabad,pending
+4190,161,5266,big bazaar,retail,2025-02-06,delhi,pending
+4191,427,7049,bookmyshow,entertainment,2025-02-20,jaipur,completed
+4192,446,1255,myntra,fashion,2025-02-01,hyderabad,pending
+4193,313,3385,big bazaar,retail,2025-02-07,bangalore,failed
+4194,374,223,amazon,ecommerce,2025-01-12,surat,completed
+4195,287,958,lenskart,eyewear,2025-02-18,mumbai,failed
+4196,41,8532,flipkart,ecommerce,2025-01-06,ahmedabad,completed
+4197,51,543,big bazaar,retail,2025-02-06,mumbai,failed
+4198,124,5404,myntra,fashion,2025-02-19,chennai,failed
+4199,114,8291,jabong,ecommerce,2025-02-17,mumbai,pending
+4200,101,7256,reliance digital,electronics,2025-02-09,surat,completed
+4201,69,4305,nykaa,beauty,2025-02-16,hyderabad,failed
+4202,107,4909,bookmyshow,entertainment,2025-02-28,jaipur,failed
+4203,365,5088,croma,electronics,2025-01-29,hyderabad,completed
+4204,465,8634,snapdeal,ecommerce,2025-02-23,chennai,completed
+4205,216,3471,zomato,food,2025-01-12,bangalore,pending
+4206,495,5321,hdfc bank,banking,2025-01-11,surat,failed
+4207,110,9477,big bazaar,retail,2025-01-25,hyderabad,completed
+4208,389,5453,hdfc bank,banking,2025-01-11,kolkata,failed
+4209,210,4656,reliance digital,electronics,2025-02-23,ahmedabad,pending
+4210,83,6206,bookmyshow,entertainment,2025-01-29,surat,completed
+4211,424,7434,croma,electronics,2025-01-11,mumbai,failed
+4212,234,6206,tata cliq,ecommerce,2025-02-05,chennai,completed
+4213,381,9456,jabong,ecommerce,2025-03-01,kolkata,completed
+4214,399,7742,bookmyshow,entertainment,2025-02-11,jaipur,failed
+4215,481,4305,big bazaar,retail,2025-02-28,bangalore,failed
+4216,451,703,jabong,ecommerce,2025-01-22,mumbai,failed
+4217,179,5599,flipkart,ecommerce,2025-02-04,kolkata,pending
+4218,9,6388,lenskart,eyewear,2025-01-04,cochin,completed
+4219,386,865,hdfc bank,banking,2025-01-28,ahmedabad,failed
+4220,183,342,jabong,ecommerce,2025-01-21,kolkata,failed
+4221,43,4919,bookmyshow,entertainment,2025-01-17,kolkata,failed
+4222,267,6791,flipkart,ecommerce,2025-01-16,jaipur,failed
+4223,491,236,paytm,finance,2025-01-23,mumbai,completed
+4224,311,8149,jabong,ecommerce,2025-02-09,jaipur,failed
+4225,128,9317,nykaa,beauty,2025-02-20,surat,failed
+4226,133,1043,tata cliq,ecommerce,2025-01-29,mumbai,failed
+4227,202,9001,big bazaar,retail,2025-02-18,surat,pending
+4228,326,2965,tata cliq,ecommerce,2025-01-06,hyderabad,completed
+4229,402,3346,jabong,ecommerce,2025-01-07,nagpur,failed
+4230,438,9757,jabong,ecommerce,2025-02-25,kolkata,pending
+4231,454,4346,tata cliq,ecommerce,2025-03-05,chennai,completed
+4232,45,4142,lenskart,eyewear,2025-02-16,surat,completed
+4233,429,3797,amazon,ecommerce,2025-02-14,bangalore,pending
+4234,410,4323,jabong,ecommerce,2025-02-18,bangalore,pending
+4235,206,679,flipkart,ecommerce,2025-02-28,kolkata,completed
+4236,268,3690,lenskart,eyewear,2025-01-07,hyderabad,pending
+4237,70,5099,paytm,finance,2025-01-28,delhi,failed
+4238,159,2134,nykaa,beauty,2025-02-22,bangalore,completed
+4239,411,2751,hdfc bank,banking,2025-03-05,ahmedabad,completed
+4240,273,7988,lenskart,eyewear,2025-02-20,mumbai,completed
+4241,43,3484,reliance digital,electronics,2025-01-23,cochin,failed
+4242,164,7730,bookmyshow,entertainment,2025-02-01,chennai,pending
+4243,202,8383,snapdeal,ecommerce,2025-01-06,pune,pending
+4244,335,8675,zomato,food,2025-02-27,mumbai,completed
+4245,295,6901,bookmyshow,entertainment,2025-02-05,nagpur,completed
+4246,211,7993,dominos,food,2025-02-25,delhi,failed
+4247,89,5060,bookmyshow,entertainment,2025-02-04,delhi,completed
+4248,433,9101,amazon,ecommerce,2025-02-17,ahmedabad,completed
+4249,472,6676,snapdeal,ecommerce,2025-01-07,jaipur,pending
+4250,164,7276,reliance digital,electronics,2025-02-08,kolkata,pending
+4251,206,6653,bookmyshow,entertainment,2025-02-14,pune,completed
+4252,346,1654,zomato,food,2025-02-01,kolkata,failed
+4253,357,3137,flipkart,ecommerce,2025-01-26,hyderabad,pending
+4254,19,4573,tata cliq,ecommerce,2025-01-23,delhi,completed
+4255,48,2360,zomato,food,2025-03-03,jaipur,completed
+4256,154,8088,nykaa,beauty,2025-02-07,chennai,completed
+4257,477,4735,bookmyshow,entertainment,2025-01-20,ahmedabad,failed
+4258,147,7274,zomato,food,2025-02-08,hyderabad,completed
+4259,157,2138,lenskart,eyewear,2025-01-22,hyderabad,pending
+4260,359,5324,reliance digital,electronics,2025-01-26,nagpur,completed
+4261,457,7987,snapdeal,ecommerce,2025-01-22,kolkata,completed
+4262,303,3132,zomato,food,2025-02-10,nagpur,pending
+4263,207,1422,reliance digital,electronics,2025-02-21,surat,pending
+4264,323,5224,lenskart,eyewear,2025-02-23,hyderabad,pending
+4265,367,4020,croma,electronics,2025-01-25,jaipur,pending
+4266,471,1982,nykaa,beauty,2025-01-02,mumbai,completed
+4267,11,3841,swiggy,food,2025-02-18,surat,failed
+4268,156,8793,croma,electronics,2025-01-17,nagpur,failed
+4269,128,6470,tata cliq,ecommerce,2025-01-10,surat,failed
+4270,302,9085,dominos,food,2025-01-22,nagpur,completed
+4271,319,5854,reliance digital,electronics,2025-01-29,delhi,failed
+4272,106,6026,dominos,food,2025-01-03,kolkata,completed
+4273,115,9519,snapdeal,ecommerce,2025-01-19,jaipur,pending
+4274,34,3638,paytm,finance,2025-01-26,delhi,completed
+4275,265,4803,snapdeal,ecommerce,2025-02-10,kolkata,completed
+4276,381,8149,bookmyshow,entertainment,2025-02-07,delhi,completed
+4277,39,8484,lenskart,eyewear,2025-02-08,ahmedabad,completed
+4278,340,2772,nykaa,beauty,2025-01-13,cochin,pending
+4279,116,4693,lenskart,eyewear,2025-02-06,delhi,completed
+4280,395,1128,lenskart,eyewear,2025-01-30,hyderabad,pending
+4281,13,6719,snapdeal,ecommerce,2025-02-11,kolkata,failed
+4282,43,333,big bazaar,retail,2025-02-11,kolkata,pending
+4283,93,7846,flipkart,ecommerce,2025-02-27,pune,failed
+4284,485,1025,tata cliq,ecommerce,2025-02-15,delhi,pending
+4285,414,5307,flipkart,ecommerce,2025-02-10,mumbai,pending
+4286,384,1079,myntra,fashion,2025-01-27,chennai,pending
+4287,88,9577,paytm,finance,2025-01-03,mumbai,completed
+4288,64,5108,lenskart,eyewear,2025-02-08,kolkata,completed
+4289,453,1695,amazon,ecommerce,2025-02-17,delhi,failed
+4290,413,438,tata cliq,ecommerce,2025-01-19,ahmedabad,pending
+4291,373,5573,hdfc bank,banking,2025-01-26,mumbai,completed
+4292,91,4537,nykaa,beauty,2025-01-21,surat,failed
+4293,10,4524,swiggy,food,2025-02-10,bangalore,pending
+4294,29,849,myntra,fashion,2025-02-01,mumbai,pending
+4295,202,2047,amazon,ecommerce,2025-02-19,cochin,pending
+4296,337,8606,hdfc bank,banking,2025-02-11,kolkata,failed
+4297,82,7913,dominos,food,2025-02-24,ahmedabad,pending
+4298,290,7984,myntra,fashion,2025-03-03,bangalore,failed
+4299,10,3929,bookmyshow,entertainment,2025-02-04,cochin,failed
+4300,16,4937,reliance digital,electronics,2025-02-25,mumbai,completed
+4301,288,8053,reliance digital,electronics,2025-01-30,chennai,failed
+4302,367,7561,jabong,ecommerce,2025-01-13,hyderabad,pending
+4303,353,2619,flipkart,ecommerce,2025-01-04,cochin,failed
+4304,212,121,paytm,finance,2025-02-16,ahmedabad,completed
+4305,337,7395,dominos,food,2025-02-04,nagpur,completed
+4306,317,9034,dominos,food,2025-01-04,delhi,pending
+4307,87,5660,paytm,finance,2025-03-05,chennai,completed
+4308,464,1240,amazon,ecommerce,2025-02-10,nagpur,completed
+4309,187,2563,tata cliq,ecommerce,2025-02-11,cochin,pending
+4310,455,7681,nykaa,beauty,2025-01-13,jaipur,failed
+4311,430,2066,dominos,food,2025-02-15,nagpur,pending
+4312,328,1849,amazon,ecommerce,2025-02-02,chennai,failed
+4313,151,9843,amazon,ecommerce,2025-02-24,surat,failed
+4314,286,3955,jabong,ecommerce,2025-02-14,mumbai,completed
+4315,75,2837,bookmyshow,entertainment,2025-01-22,surat,pending
+4316,217,177,amazon,ecommerce,2025-02-28,ahmedabad,completed
+4317,195,4623,amazon,ecommerce,2025-01-21,surat,pending
+4318,468,5163,hdfc bank,banking,2025-01-01,pune,pending
+4319,221,2507,amazon,ecommerce,2025-01-12,mumbai,failed
+4320,364,2140,dominos,food,2025-02-13,kolkata,pending
+4321,433,6216,jabong,ecommerce,2025-01-28,bangalore,completed
+4322,19,7470,croma,electronics,2025-01-11,bangalore,completed
+4323,80,7598,tata cliq,ecommerce,2025-01-08,kolkata,failed
+4324,424,6379,swiggy,food,2025-02-09,bangalore,failed
+4325,489,5419,myntra,fashion,2025-02-25,hyderabad,failed
+4326,31,8500,jabong,ecommerce,2025-02-07,chennai,completed
+4327,49,5605,paytm,finance,2025-01-04,surat,completed
+4328,214,265,myntra,fashion,2025-01-05,chennai,failed
+4329,84,5813,lenskart,eyewear,2025-02-06,kolkata,completed
+4330,18,756,myntra,fashion,2025-02-20,chennai,completed
+4331,4,8399,jabong,ecommerce,2025-03-03,hyderabad,completed
+4332,252,1628,zomato,food,2025-02-27,ahmedabad,completed
+4333,484,7108,reliance digital,electronics,2025-02-16,mumbai,failed
+4334,498,8068,hdfc bank,banking,2025-02-25,cochin,failed
+4335,56,3744,reliance digital,electronics,2025-02-28,ahmedabad,completed
+4336,159,7402,bookmyshow,entertainment,2025-01-31,pune,pending
+4337,285,352,myntra,fashion,2025-02-18,surat,completed
+4338,354,9766,snapdeal,ecommerce,2025-02-25,chennai,completed
+4339,437,5487,paytm,finance,2025-02-04,kolkata,pending
+4340,209,9852,swiggy,food,2025-03-01,cochin,pending
+4341,67,2209,jabong,ecommerce,2025-01-26,mumbai,failed
+4342,361,9720,paytm,finance,2025-02-19,nagpur,pending
+4343,416,6871,jabong,ecommerce,2025-01-24,nagpur,completed
+4344,187,8073,snapdeal,ecommerce,2025-01-07,ahmedabad,completed
+4345,247,1855,reliance digital,electronics,2025-01-11,delhi,pending
+4346,397,9680,bookmyshow,entertainment,2025-02-20,pune,pending
+4347,481,5797,lenskart,eyewear,2025-02-26,mumbai,completed
+4348,396,4667,amazon,ecommerce,2025-02-16,bangalore,pending
+4349,471,5894,croma,electronics,2025-03-01,ahmedabad,failed
+4350,350,2210,tata cliq,ecommerce,2025-02-08,delhi,failed
+4351,496,9875,myntra,fashion,2025-02-19,hyderabad,failed
+4352,206,181,paytm,finance,2025-02-02,mumbai,failed
+4353,266,8788,snapdeal,ecommerce,2025-02-20,cochin,pending
+4354,71,8048,dominos,food,2025-01-28,delhi,pending
+4355,69,676,dominos,food,2025-01-04,chennai,completed
+4356,177,1476,snapdeal,ecommerce,2025-01-27,hyderabad,failed
+4357,295,4561,nykaa,beauty,2025-02-27,hyderabad,completed
+4358,123,7704,reliance digital,electronics,2025-01-03,kolkata,pending
+4359,370,1055,myntra,fashion,2025-02-18,cochin,failed
+4360,459,9198,croma,electronics,2025-01-08,nagpur,pending
+4361,317,8917,flipkart,ecommerce,2025-01-20,delhi,pending
+4362,201,6089,lenskart,eyewear,2025-01-18,chennai,pending
+4363,157,8923,swiggy,food,2025-01-05,kolkata,completed
+4364,242,2046,snapdeal,ecommerce,2025-01-21,nagpur,pending
+4365,141,320,big bazaar,retail,2025-02-12,nagpur,completed
+4366,354,1501,myntra,fashion,2025-02-28,kolkata,completed
+4367,309,755,dominos,food,2025-02-28,hyderabad,pending
+4368,82,4049,flipkart,ecommerce,2025-01-07,surat,completed
+4369,329,7249,jabong,ecommerce,2025-01-18,hyderabad,pending
+4370,495,6804,zomato,food,2025-02-14,jaipur,pending
+4371,384,9061,flipkart,ecommerce,2025-02-14,hyderabad,completed
+4372,225,9962,swiggy,food,2025-02-11,surat,failed
+4373,230,690,nykaa,beauty,2025-02-13,cochin,pending
+4374,386,7140,flipkart,ecommerce,2025-02-20,kolkata,failed
+4375,289,9134,hdfc bank,banking,2025-01-07,delhi,failed
+4376,406,4913,big bazaar,retail,2025-01-20,jaipur,completed
+4377,217,7721,paytm,finance,2025-01-17,nagpur,failed
+4378,464,4878,paytm,finance,2025-01-25,mumbai,pending
+4379,330,2393,big bazaar,retail,2025-01-25,cochin,failed
+4380,410,4054,lenskart,eyewear,2025-01-07,pune,failed
+4381,158,3613,zomato,food,2025-01-02,chennai,completed
+4382,81,2937,dominos,food,2025-01-07,kolkata,failed
+4383,175,8989,zomato,food,2025-02-04,chennai,failed
+4384,152,1537,snapdeal,ecommerce,2025-02-04,chennai,pending
+4385,139,1083,bookmyshow,entertainment,2025-01-30,surat,completed
+4386,83,9123,nykaa,beauty,2025-01-05,ahmedabad,pending
+4387,469,7589,lenskart,eyewear,2025-01-06,kolkata,failed
+4388,18,338,tata cliq,ecommerce,2025-02-21,pune,completed
+4389,86,6836,nykaa,beauty,2025-01-29,mumbai,failed
+4390,301,6673,lenskart,eyewear,2025-02-11,hyderabad,pending
+4391,273,2896,lenskart,eyewear,2025-02-13,nagpur,failed
+4392,204,9113,bookmyshow,entertainment,2025-01-20,bangalore,failed
+4393,425,2859,lenskart,eyewear,2025-01-17,jaipur,completed
+4394,419,8748,tata cliq,ecommerce,2025-02-15,cochin,completed
+4395,53,6773,snapdeal,ecommerce,2025-01-28,pune,pending
+4396,340,9677,dominos,food,2025-02-18,nagpur,failed
+4397,288,7351,nykaa,beauty,2025-02-23,cochin,completed
+4398,490,9038,nykaa,beauty,2025-01-04,mumbai,completed
+4399,450,9709,hdfc bank,banking,2025-01-17,bangalore,failed
+4400,342,9579,jabong,ecommerce,2025-02-15,surat,pending
+4401,318,1575,hdfc bank,banking,2025-01-05,pune,failed
+4402,16,8772,myntra,fashion,2025-02-25,pune,failed
+4403,249,5917,reliance digital,electronics,2025-01-13,mumbai,pending
+4404,9,6837,reliance digital,electronics,2025-02-18,hyderabad,completed
+4405,49,3340,snapdeal,ecommerce,2025-01-03,cochin,failed
+4406,261,8264,jabong,ecommerce,2025-02-06,mumbai,completed
+4407,145,9434,bookmyshow,entertainment,2025-03-04,jaipur,failed
+4408,62,1012,lenskart,eyewear,2025-01-14,surat,failed
+4409,91,2055,dominos,food,2025-02-27,cochin,failed
+4410,103,619,paytm,finance,2025-01-20,bangalore,completed
+4411,346,7473,jabong,ecommerce,2025-02-27,hyderabad,completed
+4412,337,2629,jabong,ecommerce,2025-01-26,surat,failed
+4413,309,3271,big bazaar,retail,2025-02-13,delhi,failed
+4414,158,7272,tata cliq,ecommerce,2025-01-26,pune,failed
+4415,390,3753,reliance digital,electronics,2025-02-18,chennai,completed
+4416,233,894,reliance digital,electronics,2025-02-15,bangalore,failed
+4417,417,8525,dominos,food,2025-02-17,kolkata,completed
+4418,63,3184,jabong,ecommerce,2025-01-02,pune,completed
+4419,42,6283,zomato,food,2025-01-24,pune,completed
+4420,57,3686,lenskart,eyewear,2025-02-03,hyderabad,failed
+4421,484,3032,tata cliq,ecommerce,2025-01-27,hyderabad,pending
+4422,147,7071,paytm,finance,2025-01-04,jaipur,completed
+4423,36,1972,hdfc bank,banking,2025-01-27,kolkata,pending
+4424,38,7849,flipkart,ecommerce,2025-02-20,cochin,failed
+4425,469,7014,hdfc bank,banking,2025-02-22,delhi,completed
+4426,432,2753,reliance digital,electronics,2025-01-12,hyderabad,failed
+4427,308,3154,nykaa,beauty,2025-01-09,cochin,failed
+4428,166,3740,hdfc bank,banking,2025-02-16,kolkata,pending
+4429,239,4626,hdfc bank,banking,2025-01-12,bangalore,pending
+4430,6,9516,flipkart,ecommerce,2025-01-27,cochin,completed
+4431,230,2574,amazon,ecommerce,2025-02-03,jaipur,failed
+4432,296,9018,myntra,fashion,2025-02-01,kolkata,pending
+4433,436,6580,myntra,fashion,2025-02-22,jaipur,pending
+4434,467,8630,snapdeal,ecommerce,2025-02-24,nagpur,pending
+4435,330,9410,tata cliq,ecommerce,2025-01-14,hyderabad,completed
+4436,428,8036,big bazaar,retail,2025-01-22,jaipur,failed
+4437,437,432,lenskart,eyewear,2025-02-11,pune,failed
+4438,132,5753,hdfc bank,banking,2025-02-15,nagpur,completed
+4439,324,8115,tata cliq,ecommerce,2025-02-12,hyderabad,pending
+4440,325,9572,snapdeal,ecommerce,2025-02-05,nagpur,completed
+4441,247,612,tata cliq,ecommerce,2025-01-21,ahmedabad,failed
+4442,409,6970,croma,electronics,2025-01-07,delhi,pending
+4443,430,2048,flipkart,ecommerce,2025-01-30,bangalore,failed
+4444,143,121,flipkart,ecommerce,2025-01-27,jaipur,failed
+4445,72,8413,flipkart,ecommerce,2025-02-21,surat,completed
+4446,434,1887,flipkart,ecommerce,2025-03-05,surat,failed
+4447,434,5483,amazon,ecommerce,2025-03-04,chennai,completed
+4448,313,4310,swiggy,food,2025-03-04,nagpur,completed
+4449,23,3775,zomato,food,2025-03-03,cochin,pending
+4450,53,4079,snapdeal,ecommerce,2025-02-24,pune,pending
+4451,120,9041,tata cliq,ecommerce,2025-02-25,delhi,pending
+4452,497,9308,flipkart,ecommerce,2025-02-02,ahmedabad,failed
+4453,258,1939,swiggy,food,2025-01-08,cochin,failed
+4454,393,1142,swiggy,food,2025-01-11,hyderabad,pending
+4455,23,6038,tata cliq,ecommerce,2025-02-14,pune,failed
+4456,383,6888,jabong,ecommerce,2025-01-23,chennai,failed
+4457,411,783,tata cliq,ecommerce,2025-01-18,ahmedabad,pending
+4458,176,789,reliance digital,electronics,2025-01-06,mumbai,completed
+4459,479,4956,croma,electronics,2025-01-01,surat,failed
+4460,42,9442,lenskart,eyewear,2025-01-16,kolkata,pending
+4461,42,6718,nykaa,beauty,2025-02-17,hyderabad,completed
+4462,440,1103,reliance digital,electronics,2025-02-09,ahmedabad,pending
+4463,5,7107,swiggy,food,2025-01-17,hyderabad,pending
+4464,441,8310,zomato,food,2025-01-12,chennai,pending
+4465,241,8195,zomato,food,2025-02-23,pune,completed
+4466,169,4233,tata cliq,ecommerce,2025-01-03,cochin,completed
+4467,414,5424,zomato,food,2025-03-01,cochin,failed
+4468,334,4935,croma,electronics,2025-01-05,hyderabad,pending
+4469,340,6813,reliance digital,electronics,2025-02-04,surat,failed
+4470,437,4751,big bazaar,retail,2025-01-09,delhi,completed
+4471,9,6968,swiggy,food,2025-01-01,delhi,completed
+4472,495,9697,reliance digital,electronics,2025-02-05,ahmedabad,pending
+4473,214,8926,big bazaar,retail,2025-01-06,cochin,pending
+4474,145,1502,croma,electronics,2025-02-19,nagpur,completed
+4475,128,9435,swiggy,food,2025-02-18,mumbai,pending
+4476,107,7166,dominos,food,2025-02-24,cochin,completed
+4477,184,2166,zomato,food,2025-02-23,jaipur,failed
+4478,252,4488,bookmyshow,entertainment,2025-02-10,mumbai,failed
+4479,279,2235,jabong,ecommerce,2025-03-05,delhi,completed
+4480,170,7917,amazon,ecommerce,2025-01-03,mumbai,pending
+4481,91,383,zomato,food,2025-01-12,nagpur,pending
+4482,434,8058,nykaa,beauty,2025-03-03,ahmedabad,failed
+4483,184,491,swiggy,food,2025-02-15,delhi,completed
+4484,143,7832,jabong,ecommerce,2025-03-03,ahmedabad,failed
+4485,183,2172,tata cliq,ecommerce,2025-02-20,surat,pending
+4486,249,399,bookmyshow,entertainment,2025-02-06,mumbai,pending
+4487,297,3861,myntra,fashion,2025-02-18,pune,failed
+4488,372,543,nykaa,beauty,2025-01-31,bangalore,pending
+4489,475,9623,nykaa,beauty,2025-02-17,ahmedabad,completed
+4490,389,6982,swiggy,food,2025-02-26,chennai,pending
+4491,329,8449,jabong,ecommerce,2025-02-24,nagpur,failed
+4492,455,231,snapdeal,ecommerce,2025-01-07,chennai,completed
+4493,487,5501,reliance digital,electronics,2025-01-02,delhi,failed
+4494,486,5306,lenskart,eyewear,2025-01-07,pune,pending
+4495,86,923,tata cliq,ecommerce,2025-02-10,chennai,pending
+4496,409,4742,bookmyshow,entertainment,2025-01-07,hyderabad,completed
+4497,97,2652,croma,electronics,2025-01-01,bangalore,pending
+4498,103,1292,tata cliq,ecommerce,2025-02-08,cochin,pending
+4499,437,2322,zomato,food,2025-01-02,nagpur,completed
+4500,469,1218,paytm,finance,2025-02-04,jaipur,completed
+4501,329,6009,croma,electronics,2025-02-28,cochin,completed
+4502,478,2852,bookmyshow,entertainment,2025-02-20,jaipur,completed
+4503,361,5842,amazon,ecommerce,2025-01-11,hyderabad,completed
+4504,132,8707,amazon,ecommerce,2025-01-06,ahmedabad,completed
+4505,454,4208,big bazaar,retail,2025-01-05,hyderabad,completed
+4506,194,4143,snapdeal,ecommerce,2025-01-07,chennai,completed
+4507,75,199,amazon,ecommerce,2025-01-03,cochin,failed
+4508,110,2756,big bazaar,retail,2025-01-23,delhi,pending
+4509,408,7507,dominos,food,2025-01-17,surat,pending
+4510,440,1682,flipkart,ecommerce,2025-02-22,nagpur,failed
+4511,50,3933,nykaa,beauty,2025-02-19,surat,failed
+4512,178,5635,dominos,food,2025-01-08,kolkata,failed
+4513,316,1766,croma,electronics,2025-02-14,mumbai,completed
+4514,373,5505,reliance digital,electronics,2025-01-23,mumbai,completed
+4515,453,9101,hdfc bank,banking,2025-01-06,ahmedabad,failed
+4516,389,4262,jabong,ecommerce,2025-02-10,jaipur,failed
+4517,486,6082,amazon,ecommerce,2025-01-17,cochin,completed
+4518,282,5602,tata cliq,ecommerce,2025-01-31,bangalore,completed
+4519,440,1267,amazon,ecommerce,2025-02-17,pune,pending
+4520,141,5114,snapdeal,ecommerce,2025-01-29,chennai,pending
+4521,5,6172,dominos,food,2025-01-05,hyderabad,completed
+4522,156,7196,tata cliq,ecommerce,2025-02-09,jaipur,pending
+4523,486,4820,dominos,food,2025-01-18,mumbai,completed
+4524,179,1339,hdfc bank,banking,2025-02-04,nagpur,pending
+4525,52,843,big bazaar,retail,2025-01-02,cochin,completed
+4526,59,2054,myntra,fashion,2025-01-18,chennai,pending
+4527,136,9111,croma,electronics,2025-02-28,mumbai,failed
+4528,344,7475,bookmyshow,entertainment,2025-02-03,chennai,completed
+4529,337,8111,snapdeal,ecommerce,2025-01-24,kolkata,pending
+4530,11,6640,dominos,food,2025-01-20,ahmedabad,pending
+4531,333,719,jabong,ecommerce,2025-03-05,kolkata,pending
+4532,278,761,amazon,ecommerce,2025-03-03,nagpur,pending
+4533,348,6346,big bazaar,retail,2025-03-05,bangalore,failed
+4534,429,5165,croma,electronics,2025-01-28,cochin,completed
+4535,288,1475,flipkart,ecommerce,2025-02-13,bangalore,completed
+4536,120,548,nykaa,beauty,2025-03-02,pune,pending
+4537,83,6623,big bazaar,retail,2025-01-23,pune,completed
+4538,463,9804,swiggy,food,2025-01-27,bangalore,pending
+4539,51,1439,dominos,food,2025-01-28,nagpur,pending
+4540,146,9321,paytm,finance,2025-01-08,surat,failed
+4541,51,1815,flipkart,ecommerce,2025-02-01,bangalore,failed
+4542,377,1411,lenskart,eyewear,2025-02-20,ahmedabad,completed
+4543,90,6200,paytm,finance,2025-03-01,bangalore,pending
+4544,446,6639,snapdeal,ecommerce,2025-01-30,jaipur,completed
+4545,248,3914,hdfc bank,banking,2025-01-31,ahmedabad,pending
+4546,107,6489,dominos,food,2025-01-20,nagpur,pending
+4547,390,6622,flipkart,ecommerce,2025-01-20,nagpur,completed
+4548,95,6177,croma,electronics,2025-03-02,delhi,pending
+4549,5,8784,zomato,food,2025-02-24,jaipur,completed
+4550,380,7113,zomato,food,2025-02-09,jaipur,pending
+4551,318,2711,amazon,ecommerce,2025-02-12,hyderabad,pending
+4552,291,6521,croma,electronics,2025-02-25,cochin,pending
+4553,462,1509,paytm,finance,2025-01-01,bangalore,failed
+4554,418,3124,myntra,fashion,2025-02-16,mumbai,failed
+4555,451,7407,jabong,ecommerce,2025-02-22,bangalore,failed
+4556,225,1062,bookmyshow,entertainment,2025-01-20,surat,pending
+4557,266,4669,jabong,ecommerce,2025-01-22,jaipur,completed
+4558,142,6346,swiggy,food,2025-02-13,mumbai,pending
+4559,224,8626,reliance digital,electronics,2025-02-27,surat,failed
+4560,393,2094,paytm,finance,2025-02-01,pune,pending
+4561,80,7155,swiggy,food,2025-01-07,bangalore,pending
+4562,487,801,tata cliq,ecommerce,2025-01-28,mumbai,pending
+4563,418,2995,bookmyshow,entertainment,2025-02-22,surat,failed
+4564,45,1502,big bazaar,retail,2025-01-23,cochin,pending
+4565,164,8870,lenskart,eyewear,2025-01-28,mumbai,pending
+4566,241,6192,lenskart,eyewear,2025-01-19,mumbai,pending
+4567,482,5275,amazon,ecommerce,2025-01-15,pune,completed
+4568,324,5436,nykaa,beauty,2025-01-29,cochin,failed
+4569,53,2540,lenskart,eyewear,2025-01-27,mumbai,completed
+4570,442,350,snapdeal,ecommerce,2025-01-01,hyderabad,failed
+4571,192,4755,tata cliq,ecommerce,2025-02-09,delhi,failed
+4572,134,2356,myntra,fashion,2025-01-18,pune,failed
+4573,171,9806,croma,electronics,2025-02-04,mumbai,completed
+4574,22,4437,swiggy,food,2025-01-12,bangalore,failed
+4575,88,8555,amazon,ecommerce,2025-02-05,bangalore,pending
+4576,9,3965,reliance digital,electronics,2025-01-08,pune,pending
+4577,316,7678,amazon,ecommerce,2025-02-07,hyderabad,failed
+4578,446,8387,tata cliq,ecommerce,2025-01-14,nagpur,completed
+4579,301,3647,reliance digital,electronics,2025-03-01,cochin,pending
+4580,369,8631,paytm,finance,2025-01-12,bangalore,failed
+4581,193,6850,croma,electronics,2025-02-01,cochin,pending
+4582,379,6376,swiggy,food,2025-02-05,cochin,completed
+4583,23,9808,hdfc bank,banking,2025-01-17,kolkata,pending
+4584,117,9545,paytm,finance,2025-02-23,surat,failed
+4585,461,663,hdfc bank,banking,2025-01-13,bangalore,completed
+4586,86,3192,paytm,finance,2025-02-15,jaipur,pending
+4587,92,3689,bookmyshow,entertainment,2025-01-08,kolkata,failed
+4588,190,5023,swiggy,food,2025-02-15,surat,failed
+4589,266,993,big bazaar,retail,2025-01-30,jaipur,pending
+4590,281,9707,amazon,ecommerce,2025-02-02,kolkata,pending
+4591,199,2005,swiggy,food,2025-01-15,pune,pending
+4592,292,9183,lenskart,eyewear,2025-01-22,cochin,failed
+4593,286,148,amazon,ecommerce,2025-02-23,ahmedabad,completed
+4594,403,3999,swiggy,food,2025-01-24,hyderabad,completed
+4595,479,7909,zomato,food,2025-02-02,mumbai,pending
+4596,489,1124,paytm,finance,2025-02-01,cochin,completed
+4597,53,6482,dominos,food,2025-02-09,hyderabad,pending
+4598,441,8434,myntra,fashion,2025-01-31,pune,failed
+4599,423,8220,tata cliq,ecommerce,2025-01-04,kolkata,failed
+4600,99,5046,big bazaar,retail,2025-01-13,bangalore,pending
+4601,87,8761,nykaa,beauty,2025-01-30,delhi,failed
+4602,219,7293,dominos,food,2025-02-19,delhi,pending
+4603,92,2348,tata cliq,ecommerce,2025-02-24,ahmedabad,completed
+4604,365,4377,croma,electronics,2025-01-07,bangalore,completed
+4605,42,9358,zomato,food,2025-01-15,mumbai,pending
+4606,394,6607,lenskart,eyewear,2025-01-15,mumbai,pending
+4607,179,4850,dominos,food,2025-02-18,kolkata,pending
+4608,46,3332,nykaa,beauty,2025-01-18,mumbai,completed
+4609,345,3931,flipkart,ecommerce,2025-02-23,bangalore,completed
+4610,389,9255,tata cliq,ecommerce,2025-02-08,mumbai,pending
+4611,122,370,swiggy,food,2025-01-01,nagpur,failed
+4612,51,9540,myntra,fashion,2025-01-05,pune,pending
+4613,122,8052,jabong,ecommerce,2025-01-16,mumbai,failed
+4614,304,884,swiggy,food,2025-02-13,hyderabad,pending
+4615,468,9425,tata cliq,ecommerce,2025-02-02,mumbai,pending
+4616,287,1232,tata cliq,ecommerce,2025-02-22,hyderabad,pending
+4617,243,5089,amazon,ecommerce,2025-02-24,kolkata,failed
+4618,44,3582,big bazaar,retail,2025-02-21,bangalore,failed
+4619,343,7358,amazon,ecommerce,2025-02-05,delhi,pending
+4620,113,4063,tata cliq,ecommerce,2025-02-06,bangalore,failed
+4621,306,3012,myntra,fashion,2025-01-19,ahmedabad,failed
+4622,294,329,bookmyshow,entertainment,2025-02-06,nagpur,failed
+4623,102,8376,tata cliq,ecommerce,2025-01-27,delhi,failed
+4624,268,693,bookmyshow,entertainment,2025-01-21,surat,pending
+4625,217,9011,reliance digital,electronics,2025-02-17,nagpur,pending
+4626,21,6190,dominos,food,2025-01-19,delhi,failed
+4627,220,4363,jabong,ecommerce,2025-02-25,jaipur,pending
+4628,216,7705,flipkart,ecommerce,2025-01-07,delhi,completed
+4629,500,6964,zomato,food,2025-03-04,mumbai,failed
+4630,293,9869,hdfc bank,banking,2025-02-14,jaipur,failed
+4631,19,3783,jabong,ecommerce,2025-02-14,delhi,failed
+4632,398,4702,amazon,ecommerce,2025-03-02,pune,completed
+4633,415,580,flipkart,ecommerce,2025-01-07,chennai,completed
+4634,127,8812,lenskart,eyewear,2025-01-28,ahmedabad,pending
+4635,461,2810,hdfc bank,banking,2025-02-04,delhi,pending
+4636,44,3902,snapdeal,ecommerce,2025-02-19,chennai,completed
+4637,354,6297,amazon,ecommerce,2025-01-22,chennai,completed
+4638,394,5694,amazon,ecommerce,2025-02-06,mumbai,completed
+4639,251,9053,reliance digital,electronics,2025-02-18,surat,completed
+4640,425,7721,dominos,food,2025-02-12,kolkata,completed
+4641,306,3373,flipkart,ecommerce,2025-03-05,mumbai,pending
+4642,372,5632,big bazaar,retail,2025-02-06,cochin,completed
+4643,258,669,big bazaar,retail,2025-02-21,jaipur,completed
+4644,194,4719,nykaa,beauty,2025-02-14,chennai,pending
+4645,268,7924,zomato,food,2025-02-11,surat,completed
+4646,3,4781,jabong,ecommerce,2025-02-21,mumbai,failed
+4647,375,534,nykaa,beauty,2025-02-25,cochin,pending
+4648,354,5426,dominos,food,2025-02-20,pune,failed
+4649,10,7827,reliance digital,electronics,2025-02-15,mumbai,pending
+4650,200,2631,flipkart,ecommerce,2025-02-06,surat,completed
+4651,372,5256,amazon,ecommerce,2025-01-18,kolkata,failed
+4652,315,8937,bookmyshow,entertainment,2025-02-17,chennai,pending
+4653,237,1985,snapdeal,ecommerce,2025-01-19,kolkata,pending
+4654,282,9729,swiggy,food,2025-02-15,ahmedabad,completed
+4655,245,4735,reliance digital,electronics,2025-01-13,ahmedabad,completed
+4656,206,833,big bazaar,retail,2025-01-20,kolkata,pending
+4657,273,4441,bookmyshow,entertainment,2025-01-29,ahmedabad,pending
+4658,418,9502,croma,electronics,2025-03-02,cochin,failed
+4659,144,8788,tata cliq,ecommerce,2025-02-19,pune,pending
+4660,234,6013,dominos,food,2025-01-24,jaipur,failed
+4661,416,6401,swiggy,food,2025-02-08,jaipur,failed
+4662,144,3199,dominos,food,2025-01-16,surat,failed
+4663,257,3526,reliance digital,electronics,2025-01-29,mumbai,pending
+4664,227,3295,bookmyshow,entertainment,2025-02-26,cochin,pending
+4665,21,3705,swiggy,food,2025-01-25,delhi,failed
+4666,462,7680,myntra,fashion,2025-02-15,jaipur,failed
+4667,25,3363,croma,electronics,2025-01-22,bangalore,completed
+4668,83,3074,jabong,ecommerce,2025-01-02,pune,completed
+4669,102,2785,dominos,food,2025-01-27,pune,completed
+4670,397,8587,paytm,finance,2025-02-11,nagpur,completed
+4671,291,1476,dominos,food,2025-02-11,jaipur,completed
+4672,451,7955,zomato,food,2025-01-22,cochin,completed
+4673,151,5597,myntra,fashion,2025-01-06,hyderabad,pending
+4674,117,5548,zomato,food,2025-01-23,nagpur,completed
+4675,272,3569,lenskart,eyewear,2025-01-11,kolkata,failed
+4676,164,5867,dominos,food,2025-02-04,bangalore,completed
+4677,73,1181,jabong,ecommerce,2025-02-06,delhi,pending
+4678,368,7142,snapdeal,ecommerce,2025-03-01,ahmedabad,failed
+4679,462,1413,tata cliq,ecommerce,2025-02-09,delhi,failed
+4680,439,8565,nykaa,beauty,2025-03-02,jaipur,failed
+4681,197,6421,snapdeal,ecommerce,2025-02-26,pune,pending
+4682,285,1282,big bazaar,retail,2025-02-10,cochin,failed
+4683,252,2104,zomato,food,2025-01-31,pune,failed
+4684,131,629,snapdeal,ecommerce,2025-03-01,kolkata,completed
+4685,69,5879,bookmyshow,entertainment,2025-01-14,ahmedabad,pending
+4686,168,6466,reliance digital,electronics,2025-01-25,kolkata,pending
+4687,219,5568,swiggy,food,2025-01-03,jaipur,pending
+4688,272,8133,reliance digital,electronics,2025-02-02,jaipur,pending
+4689,36,2960,big bazaar,retail,2025-03-03,surat,failed
+4690,370,401,zomato,food,2025-01-31,jaipur,pending
+4691,332,3746,snapdeal,ecommerce,2025-01-24,nagpur,failed
+4692,231,5053,dominos,food,2025-01-26,jaipur,failed
+4693,162,2586,big bazaar,retail,2025-02-22,bangalore,failed
+4694,101,253,amazon,ecommerce,2025-01-23,cochin,completed
+4695,446,2336,swiggy,food,2025-01-17,mumbai,completed
+4696,424,2449,nykaa,beauty,2025-02-12,pune,failed
+4697,132,7555,dominos,food,2025-01-29,delhi,completed
+4698,3,1206,nykaa,beauty,2025-01-22,mumbai,failed
+4699,417,6385,paytm,finance,2025-02-13,chennai,failed
+4700,120,5999,bookmyshow,entertainment,2025-01-02,mumbai,completed
+4701,94,4983,snapdeal,ecommerce,2025-01-20,hyderabad,completed
+4702,101,5080,paytm,finance,2025-01-25,surat,pending
+4703,460,6497,snapdeal,ecommerce,2025-02-25,pune,completed
+4704,201,1230,tata cliq,ecommerce,2025-01-10,ahmedabad,failed
+4705,13,8844,zomato,food,2025-02-10,kolkata,pending
+4706,460,7252,big bazaar,retail,2025-02-23,mumbai,pending
+4707,366,7492,tata cliq,ecommerce,2025-02-07,jaipur,completed
+4708,282,994,myntra,fashion,2025-02-22,kolkata,pending
+4709,104,2253,zomato,food,2025-02-28,hyderabad,pending
+4710,296,5537,snapdeal,ecommerce,2025-03-05,bangalore,pending
+4711,235,4406,jabong,ecommerce,2025-01-20,pune,failed
+4712,448,5799,reliance digital,electronics,2025-01-24,pune,completed
+4713,480,7640,lenskart,eyewear,2025-01-06,cochin,failed
+4714,481,3090,flipkart,ecommerce,2025-02-16,mumbai,completed
+4715,176,9018,big bazaar,retail,2025-01-24,delhi,failed
+4716,242,5147,bookmyshow,entertainment,2025-02-19,pune,failed
+4717,178,854,tata cliq,ecommerce,2025-02-15,kolkata,failed
+4718,220,6011,flipkart,ecommerce,2025-02-03,pune,completed
+4719,17,5748,jabong,ecommerce,2025-01-06,kolkata,failed
+4720,352,8806,swiggy,food,2025-01-11,pune,pending
+4721,125,214,croma,electronics,2025-01-04,delhi,pending
+4722,36,8652,swiggy,food,2025-02-26,delhi,failed
+4723,494,4229,nykaa,beauty,2025-02-23,surat,pending
+4724,305,2735,croma,electronics,2025-01-01,hyderabad,failed
+4725,489,2192,paytm,finance,2025-01-07,jaipur,failed
+4726,163,7365,big bazaar,retail,2025-01-23,surat,pending
+4727,248,5383,croma,electronics,2025-03-04,delhi,failed
+4728,84,168,croma,electronics,2025-02-19,delhi,pending
+4729,146,4547,amazon,ecommerce,2025-02-06,pune,failed
+4730,189,7572,flipkart,ecommerce,2025-02-17,surat,failed
+4731,36,509,paytm,finance,2025-01-25,jaipur,completed
+4732,214,3688,lenskart,eyewear,2025-02-04,delhi,pending
+4733,291,5571,hdfc bank,banking,2025-02-05,pune,failed
+4734,328,3761,jabong,ecommerce,2025-01-12,delhi,failed
+4735,363,6104,flipkart,ecommerce,2025-01-15,mumbai,completed
+4736,387,2540,bookmyshow,entertainment,2025-03-04,bangalore,pending
+4737,30,9483,reliance digital,electronics,2025-02-02,chennai,pending
+4738,439,2963,big bazaar,retail,2025-02-20,surat,failed
+4739,283,3715,swiggy,food,2025-01-12,bangalore,pending
+4740,9,2018,lenskart,eyewear,2025-03-02,surat,completed
+4741,163,6873,myntra,fashion,2025-02-27,delhi,completed
+4742,40,5726,amazon,ecommerce,2025-02-02,delhi,completed
+4743,470,8330,flipkart,ecommerce,2025-01-06,jaipur,completed
+4744,148,5739,tata cliq,ecommerce,2025-01-22,delhi,completed
+4745,392,8649,hdfc bank,banking,2025-01-18,jaipur,failed
+4746,263,8431,paytm,finance,2025-02-25,kolkata,completed
+4747,483,2319,reliance digital,electronics,2025-02-16,kolkata,pending
+4748,46,6291,dominos,food,2025-02-10,delhi,pending
+4749,224,3413,flipkart,ecommerce,2025-01-11,ahmedabad,failed
+4750,82,7174,lenskart,eyewear,2025-02-25,mumbai,pending
+4751,439,8679,lenskart,eyewear,2025-01-27,jaipur,pending
+4752,97,5718,croma,electronics,2025-02-01,bangalore,completed
+4753,347,930,reliance digital,electronics,2025-02-05,pune,pending
+4754,415,3163,flipkart,ecommerce,2025-01-09,pune,completed
+4755,424,794,lenskart,eyewear,2025-02-25,nagpur,completed
+4756,54,6429,swiggy,food,2025-01-10,bangalore,pending
+4757,323,2210,snapdeal,ecommerce,2025-01-21,mumbai,completed
+4758,300,6360,big bazaar,retail,2025-02-22,delhi,completed
+4759,37,8997,paytm,finance,2025-01-26,pune,completed
+4760,190,3070,lenskart,eyewear,2025-01-14,surat,failed
+4761,103,5424,swiggy,food,2025-01-13,hyderabad,completed
+4762,6,7143,snapdeal,ecommerce,2025-02-07,hyderabad,pending
+4763,341,2909,lenskart,eyewear,2025-01-12,cochin,pending
+4764,6,2952,nykaa,beauty,2025-02-02,delhi,failed
+4765,491,9088,lenskart,eyewear,2025-02-24,kolkata,pending
+4766,131,556,nykaa,beauty,2025-02-06,surat,completed
+4767,139,1546,jabong,ecommerce,2025-01-16,bangalore,failed
+4768,100,2800,big bazaar,retail,2025-01-29,chennai,completed
+4769,131,7865,lenskart,eyewear,2025-01-26,chennai,completed
+4770,245,7679,hdfc bank,banking,2025-01-06,delhi,pending
+4771,8,1486,amazon,ecommerce,2025-01-18,nagpur,pending
+4772,432,3274,flipkart,ecommerce,2025-01-26,cochin,completed
+4773,488,773,dominos,food,2025-01-31,delhi,pending
+4774,2,8023,snapdeal,ecommerce,2025-01-17,nagpur,failed
+4775,206,8793,flipkart,ecommerce,2025-02-27,surat,completed
+4776,229,4888,myntra,fashion,2025-03-01,cochin,failed
+4777,322,9760,amazon,ecommerce,2025-01-23,nagpur,pending
+4778,375,3408,zomato,food,2025-01-09,pune,failed
+4779,231,3719,jabong,ecommerce,2025-01-19,nagpur,completed
+4780,268,7088,tata cliq,ecommerce,2025-01-07,pune,failed
+4781,124,2092,snapdeal,ecommerce,2025-01-01,bangalore,pending
+4782,441,4722,hdfc bank,banking,2025-01-15,chennai,failed
+4783,114,7688,lenskart,eyewear,2025-02-28,cochin,failed
+4784,155,8225,nykaa,beauty,2025-01-29,surat,failed
+4785,386,1501,reliance digital,electronics,2025-01-11,cochin,pending
+4786,42,5379,tata cliq,ecommerce,2025-02-27,chennai,completed
+4787,95,3412,paytm,finance,2025-01-16,hyderabad,completed
+4788,320,3191,flipkart,ecommerce,2025-02-20,hyderabad,failed
+4789,493,8004,paytm,finance,2025-03-04,bangalore,pending
+4790,305,4907,nykaa,beauty,2025-01-13,nagpur,completed
+4791,120,4884,big bazaar,retail,2025-01-19,surat,completed
+4792,151,6981,nykaa,beauty,2025-01-03,surat,failed
+4793,246,9630,swiggy,food,2025-01-21,chennai,failed
+4794,346,9861,myntra,fashion,2025-02-03,bangalore,completed
+4795,205,3773,big bazaar,retail,2025-02-14,surat,pending
+4796,81,7403,tata cliq,ecommerce,2025-02-26,pune,pending
+4797,293,7474,nykaa,beauty,2025-01-09,kolkata,failed
+4798,326,899,hdfc bank,banking,2025-01-29,cochin,completed
+4799,420,5916,swiggy,food,2025-01-23,delhi,failed
+4800,106,2848,bookmyshow,entertainment,2025-02-22,bangalore,completed
+4801,121,2046,swiggy,food,2025-01-30,hyderabad,pending
+4802,217,6310,reliance digital,electronics,2025-01-19,chennai,failed
+4803,150,6836,big bazaar,retail,2025-02-28,surat,pending
+4804,103,6272,hdfc bank,banking,2025-01-06,nagpur,failed
+4805,253,2242,paytm,finance,2025-03-04,chennai,pending
+4806,466,2195,hdfc bank,banking,2025-02-22,chennai,pending
+4807,439,3493,amazon,ecommerce,2025-01-05,cochin,completed
+4808,211,7846,paytm,finance,2025-02-18,mumbai,failed
+4809,312,6843,bookmyshow,entertainment,2025-02-12,jaipur,failed
+4810,357,1240,lenskart,eyewear,2025-01-31,mumbai,failed
+4811,190,8001,hdfc bank,banking,2025-01-10,cochin,completed
+4812,261,8355,jabong,ecommerce,2025-02-13,mumbai,completed
+4813,352,9100,lenskart,eyewear,2025-01-20,ahmedabad,failed
+4814,442,7057,swiggy,food,2025-01-17,bangalore,pending
+4815,101,7958,amazon,ecommerce,2025-01-26,kolkata,completed
+4816,166,7576,amazon,ecommerce,2025-02-17,delhi,completed
+4817,476,5484,croma,electronics,2025-02-08,ahmedabad,pending
+4818,61,510,hdfc bank,banking,2025-01-25,delhi,completed
+4819,333,5995,lenskart,eyewear,2025-01-21,kolkata,completed
+4820,178,949,myntra,fashion,2025-01-21,hyderabad,failed
+4821,15,629,hdfc bank,banking,2025-01-28,ahmedabad,pending
+4822,150,4637,lenskart,eyewear,2025-02-24,delhi,pending
+4823,20,8600,myntra,fashion,2025-02-01,surat,completed
+4824,478,7367,swiggy,food,2025-01-08,nagpur,pending
+4825,335,7209,croma,electronics,2025-02-05,nagpur,completed
+4826,301,3500,dominos,food,2025-01-20,nagpur,failed
+4827,60,1989,tata cliq,ecommerce,2025-02-18,ahmedabad,pending
+4828,254,1208,zomato,food,2025-02-19,jaipur,pending
+4829,393,728,bookmyshow,entertainment,2025-01-09,jaipur,failed
+4830,178,6274,swiggy,food,2025-01-19,cochin,failed
+4831,315,2290,jabong,ecommerce,2025-01-03,ahmedabad,failed
+4832,126,9304,zomato,food,2025-03-04,pune,failed
+4833,281,7995,swiggy,food,2025-01-07,surat,failed
+4834,347,3291,tata cliq,ecommerce,2025-01-04,bangalore,failed
+4835,488,1313,zomato,food,2025-01-15,cochin,completed
+4836,311,3679,dominos,food,2025-01-26,delhi,pending
+4837,38,9190,nykaa,beauty,2025-02-18,chennai,failed
+4838,90,4312,croma,electronics,2025-02-02,nagpur,completed
+4839,430,1226,big bazaar,retail,2025-02-18,chennai,failed
+4840,269,8399,tata cliq,ecommerce,2025-02-01,jaipur,pending
+4841,452,464,dominos,food,2025-01-03,cochin,completed
+4842,230,4040,bookmyshow,entertainment,2025-01-02,delhi,failed
+4843,180,9706,myntra,fashion,2025-01-21,jaipur,failed
+4844,43,579,flipkart,ecommerce,2025-01-02,hyderabad,completed
+4845,368,9196,jabong,ecommerce,2025-01-02,hyderabad,completed
+4846,303,9362,swiggy,food,2025-02-19,cochin,failed
+4847,63,4158,flipkart,ecommerce,2025-01-14,mumbai,completed
+4848,92,4184,big bazaar,retail,2025-01-13,surat,failed
+4849,486,9833,hdfc bank,banking,2025-02-07,hyderabad,completed
+4850,240,5919,snapdeal,ecommerce,2025-02-16,hyderabad,failed
+4851,483,5082,paytm,finance,2025-01-19,bangalore,pending
+4852,74,977,flipkart,ecommerce,2025-02-20,nagpur,pending
+4853,22,1319,hdfc bank,banking,2025-01-01,ahmedabad,pending
+4854,314,719,croma,electronics,2025-01-31,jaipur,pending
+4855,413,9155,dominos,food,2025-01-02,nagpur,completed
+4856,458,2336,tata cliq,ecommerce,2025-01-31,mumbai,failed
+4857,157,2880,jabong,ecommerce,2025-01-05,surat,pending
+4858,145,9013,myntra,fashion,2025-02-19,jaipur,completed
+4859,428,8962,jabong,ecommerce,2025-02-05,nagpur,completed
+4860,110,5727,zomato,food,2025-03-05,delhi,completed
+4861,315,9144,lenskart,eyewear,2025-01-31,delhi,completed
+4862,291,9679,nykaa,beauty,2025-02-26,delhi,failed
+4863,400,4632,bookmyshow,entertainment,2025-01-02,ahmedabad,pending
+4864,409,4429,big bazaar,retail,2025-02-03,kolkata,pending
+4865,125,490,paytm,finance,2025-01-24,hyderabad,completed
+4866,335,6740,myntra,fashion,2025-01-29,chennai,completed
+4867,113,8580,reliance digital,electronics,2025-01-31,surat,pending
+4868,147,8116,swiggy,food,2025-01-07,pune,completed
+4869,408,700,zomato,food,2025-02-28,surat,failed
+4870,169,2268,zomato,food,2025-02-27,pune,failed
+4871,198,8602,myntra,fashion,2025-02-16,nagpur,pending
+4872,366,657,zomato,food,2025-01-04,surat,pending
+4873,91,7838,nykaa,beauty,2025-01-25,kolkata,pending
+4874,339,7341,tata cliq,ecommerce,2025-02-10,ahmedabad,failed
+4875,211,907,myntra,fashion,2025-01-15,chennai,pending
+4876,118,2910,jabong,ecommerce,2025-02-12,surat,completed
+4877,483,4649,swiggy,food,2025-01-11,mumbai,failed
+4878,262,7702,reliance digital,electronics,2025-01-16,kolkata,completed
+4879,316,5486,paytm,finance,2025-02-11,jaipur,failed
+4880,213,5728,reliance digital,electronics,2025-01-02,mumbai,completed
+4881,61,9316,paytm,finance,2025-01-18,delhi,completed
+4882,349,1112,zomato,food,2025-01-29,hyderabad,completed
+4883,457,3158,swiggy,food,2025-02-15,surat,failed
+4884,67,8202,hdfc bank,banking,2025-01-23,surat,failed
+4885,97,5378,snapdeal,ecommerce,2025-01-27,cochin,pending
+4886,404,1470,amazon,ecommerce,2025-03-05,delhi,completed
+4887,188,2930,zomato,food,2025-02-17,nagpur,pending
+4888,34,3427,reliance digital,electronics,2025-02-23,surat,completed
+4889,486,7280,jabong,ecommerce,2025-01-07,cochin,pending
+4890,164,5893,paytm,finance,2025-02-23,surat,completed
+4891,457,4027,snapdeal,ecommerce,2025-02-22,chennai,completed
+4892,452,7054,swiggy,food,2025-02-17,surat,completed
+4893,412,7688,amazon,ecommerce,2025-01-11,nagpur,pending
+4894,493,7496,snapdeal,ecommerce,2025-02-04,delhi,completed
+4895,2,5251,reliance digital,electronics,2025-02-04,nagpur,failed
+4896,328,4532,reliance digital,electronics,2025-02-11,pune,failed
+4897,443,8411,flipkart,ecommerce,2025-01-23,nagpur,failed
+4898,402,685,dominos,food,2025-02-17,kolkata,completed
+4899,254,6868,amazon,ecommerce,2025-02-19,ahmedabad,failed
+4900,203,3743,nykaa,beauty,2025-01-12,nagpur,completed
+4901,494,635,nykaa,beauty,2025-01-28,bangalore,failed
+4902,242,786,croma,electronics,2025-01-21,nagpur,failed
+4903,139,8654,hdfc bank,banking,2025-01-31,chennai,completed
+4904,146,9496,croma,electronics,2025-01-28,hyderabad,pending
+4905,366,3580,big bazaar,retail,2025-01-31,ahmedabad,completed
+4906,62,6723,big bazaar,retail,2025-02-25,hyderabad,pending
+4907,447,9945,croma,electronics,2025-01-23,bangalore,pending
+4908,157,5814,croma,electronics,2025-01-21,pune,completed
+4909,452,2769,dominos,food,2025-02-21,ahmedabad,failed
+4910,110,196,myntra,fashion,2025-02-20,mumbai,completed
+4911,75,106,nykaa,beauty,2025-02-19,jaipur,completed
+4912,121,1024,nykaa,beauty,2025-01-30,jaipur,failed
+4913,115,8715,tata cliq,ecommerce,2025-02-03,hyderabad,pending
+4914,13,4728,jabong,ecommerce,2025-02-12,bangalore,pending
+4915,174,2047,amazon,ecommerce,2025-02-04,jaipur,pending
+4916,222,1226,big bazaar,retail,2025-02-10,pune,failed
+4917,428,6740,myntra,fashion,2025-02-11,kolkata,failed
+4918,272,2566,lenskart,eyewear,2025-02-23,ahmedabad,failed
+4919,251,7117,snapdeal,ecommerce,2025-03-02,jaipur,completed
+4920,393,2671,amazon,ecommerce,2025-02-27,pune,pending
+4921,457,5188,flipkart,ecommerce,2025-01-18,hyderabad,pending
+4922,40,3838,nykaa,beauty,2025-02-22,delhi,pending
+4923,165,3055,hdfc bank,banking,2025-01-16,bangalore,pending
+4924,294,7929,flipkart,ecommerce,2025-01-24,mumbai,failed
+4925,418,8093,hdfc bank,banking,2025-02-08,surat,failed
+4926,64,7613,reliance digital,electronics,2025-01-07,hyderabad,failed
+4927,221,2008,snapdeal,ecommerce,2025-02-03,nagpur,pending
+4928,130,6890,hdfc bank,banking,2025-01-19,jaipur,completed
+4929,275,2339,paytm,finance,2025-02-05,kolkata,failed
+4930,111,8117,swiggy,food,2025-02-07,delhi,pending
+4931,201,5622,lenskart,eyewear,2025-01-01,jaipur,failed
+4932,232,828,dominos,food,2025-02-23,pune,pending
+4933,476,5737,zomato,food,2025-02-13,chennai,failed
+4934,235,2166,lenskart,eyewear,2025-02-01,kolkata,failed
+4935,215,4654,snapdeal,ecommerce,2025-02-25,bangalore,pending
+4936,222,6783,jabong,ecommerce,2025-03-04,pune,pending
+4937,433,4176,snapdeal,ecommerce,2025-02-10,chennai,completed
+4938,197,3376,reliance digital,electronics,2025-02-21,surat,pending
+4939,394,6871,nykaa,beauty,2025-01-24,surat,pending
+4940,342,3916,paytm,finance,2025-02-22,pune,completed
+4941,309,4550,hdfc bank,banking,2025-01-08,surat,failed
+4942,444,2449,paytm,finance,2025-01-15,delhi,failed
+4943,12,9353,hdfc bank,banking,2025-01-21,chennai,pending
+4944,333,1037,lenskart,eyewear,2025-01-26,delhi,pending
+4945,170,2668,flipkart,ecommerce,2025-02-20,ahmedabad,pending
+4946,140,9658,jabong,ecommerce,2025-02-08,surat,completed
+4947,328,8972,croma,electronics,2025-02-28,ahmedabad,pending
+4948,363,8632,tata cliq,ecommerce,2025-01-09,kolkata,failed
+4949,321,8514,big bazaar,retail,2025-01-18,bangalore,completed
+4950,253,7244,paytm,finance,2025-01-21,cochin,completed
+4951,232,7684,zomato,food,2025-01-09,cochin,pending
+4952,16,6480,zomato,food,2025-01-25,bangalore,completed
+4953,461,1761,myntra,fashion,2025-01-19,pune,pending
+4954,480,5766,tata cliq,ecommerce,2025-02-24,cochin,completed
+4955,54,8525,reliance digital,electronics,2025-01-22,chennai,failed
+4956,40,3593,reliance digital,electronics,2025-01-24,jaipur,completed
+4957,154,1717,big bazaar,retail,2025-02-20,chennai,completed
+4958,330,4992,swiggy,food,2025-02-03,hyderabad,failed
+4959,150,6602,paytm,finance,2025-01-02,hyderabad,completed
+4960,339,6084,myntra,fashion,2025-01-02,surat,pending
+4961,169,7483,tata cliq,ecommerce,2025-02-03,ahmedabad,failed
+4962,8,4077,nykaa,beauty,2025-01-04,jaipur,completed
+4963,267,9353,bookmyshow,entertainment,2025-02-26,cochin,completed
+4964,340,2375,croma,electronics,2025-02-09,jaipur,pending
+4965,313,9180,reliance digital,electronics,2025-01-30,ahmedabad,failed
+4966,331,3942,reliance digital,electronics,2025-01-17,bangalore,completed
+4967,381,1304,hdfc bank,banking,2025-02-19,cochin,pending
+4968,57,2880,bookmyshow,entertainment,2025-02-17,jaipur,completed
+4969,21,7892,croma,electronics,2025-01-20,ahmedabad,failed
+4970,31,3102,jabong,ecommerce,2025-01-22,delhi,completed
+4971,174,909,tata cliq,ecommerce,2025-01-05,pune,failed
+4972,301,1718,hdfc bank,banking,2025-03-05,chennai,failed
+4973,455,8208,flipkart,ecommerce,2025-01-18,kolkata,failed
+4974,318,7729,big bazaar,retail,2025-02-17,delhi,pending
+4975,84,5070,jabong,ecommerce,2025-01-01,hyderabad,pending
+4976,304,611,big bazaar,retail,2025-03-04,delhi,failed
+4977,52,3891,reliance digital,electronics,2025-01-19,bangalore,completed
+4978,465,5231,dominos,food,2025-02-25,surat,failed
+4979,219,9043,flipkart,ecommerce,2025-02-11,chennai,failed
+4980,443,4805,zomato,food,2025-01-08,chennai,completed
+4981,317,746,paytm,finance,2025-01-30,pune,failed
+4982,316,3662,dominos,food,2025-02-16,bangalore,completed
+4983,428,7586,dominos,food,2025-03-02,surat,failed
+4984,109,2904,lenskart,eyewear,2025-01-05,pune,failed
+4985,101,7065,flipkart,ecommerce,2025-02-14,bangalore,failed
+4986,214,6595,myntra,fashion,2025-02-03,cochin,failed
+4987,249,5248,amazon,ecommerce,2025-03-01,nagpur,failed
+4988,161,1202,snapdeal,ecommerce,2025-02-02,pune,failed
+4989,144,1733,tata cliq,ecommerce,2025-02-06,pune,failed
+4990,414,646,croma,electronics,2025-01-03,cochin,completed
+4991,392,1352,bookmyshow,entertainment,2025-02-09,bangalore,failed
+4992,290,8021,paytm,finance,2025-02-07,bangalore,failed
+4993,290,254,hdfc bank,banking,2025-02-28,ahmedabad,pending
+4994,134,2402,jabong,ecommerce,2025-01-29,delhi,failed
+4995,105,6363,swiggy,food,2025-01-22,delhi,failed
+4996,182,6462,flipkart,ecommerce,2025-02-24,pune,failed
+4997,263,2214,dominos,food,2025-02-20,surat,failed
+4998,436,8163,reliance digital,electronics,2025-01-06,kolkata,pending
+4999,385,8165,swiggy,food,2025-01-03,kolkata,pending
+5000,361,4877,croma,electronics,2025-02-09,bangalore,pending
