@@ -23,7 +23,7 @@
 4. Tools and Technologies 
   • Frontend: HTML, CSS, JavaScript 
   • Backend: Django 
-  • Libraries: TensorFlow, Scikit-learn 
+  • Libraries: Scikit-learn 
   • Database: MySQL 
 5. Structure of the Program 
   • Data Acquisition: Collect a dataset of credit card transactions. 
